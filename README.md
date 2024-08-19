@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**TsukiSama9292/TsukiSama9292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# XuanYou Lin
+## Education
++ 2022.09-Present B.S. in Computer Science and Engineering, National Ilan University
+## Interests
++ Large Language Models
++ Android
++ Docker
+## Skill
++ Natural Language: Chinese(mother tongue)
++ Programming Language: **Python** , **Java** , VB , C++
++ Programming Framework: **PyTorch**
