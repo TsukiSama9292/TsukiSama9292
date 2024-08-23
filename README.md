@@ -11,6 +11,9 @@ No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
 + Large Language Models
 + Android
 + Docker
+## OS
++ Linux(Ubuntu 24.04/22.04)
++ Windows(11/10)
 ## Skill
 + Natural Language: Chinese(mother tongue)
 + Programming Language: **Python** , **Java** , VB , C++
