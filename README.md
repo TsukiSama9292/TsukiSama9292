@@ -3,7 +3,7 @@
 
 # XuanYou Lin
 ### *B.S. Student*
-National Ilan University  
+Taiwan, National Ilan University  
 No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
 ## Education
 + 2022.09-Present B.S. in Computer Science and Engineering, National Ilan University
