@@ -8,9 +8,10 @@ No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
 ## Education
 + 2022.09-Present B.S. in Computer Science and Engineering, National Ilan University
 ## Interests
-+ Large Language Models
-+ Android
 + Docker
++ Large Language Models
++ Linux
++ Android
 ## OS
 + Linux (Ubuntu 24.04/22.04)
 + Windows (11/10)
