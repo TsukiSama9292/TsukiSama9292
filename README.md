@@ -8,13 +8,12 @@ No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
 ## Education
 + 2022.09-Present B.S. in Computer Science and Engineering, National Ilan University
 ## Interests
-+ Docker
++ Docker && Linux
 + Large Language Models
-+ Linux
 + Android
 ## OS
-+ Linux (Ubuntu 24.04/22.04)
-+ Windows (11/10)
++ Main: Linux (Ubuntu 24.04/22.04 LTS)
++ usually: Windows (11/10) 
 ## Skill
 + Natural Language: Chinese(mother tongue)
 + Programming Language: **Python** , **Java** , VB , C++
