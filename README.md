@@ -13,7 +13,7 @@ No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
 + Android
 ## OS
 + Main: Linux (Ubuntu 24.04/22.04 LTS)
-+ usually: Windows (11/10) 
++ Usually: Windows (11/10) 
 ## Skill
 + Natural Language: Chinese(mother tongue)
 + Programming Language: **Python** , **Java** , VB , C++
