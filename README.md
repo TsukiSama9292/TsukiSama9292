@@ -19,3 +19,4 @@ No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
 + Natural Language: Chinese(mother tongue)
 + Programming Language: **Python** , **Java** , VB , C++
 + Programming Framework: **PyTorch**
++ Server manager: **Rancher(learning)**
