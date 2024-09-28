@@ -8,7 +8,7 @@ No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
 ## Education
 + 2022.09-Present B.S. in Computer Science and Engineering, National Ilan University
 ## Interests
-+ Docker && Linux
++ Server(Linux&Docker)
 + Large Language Models
 + Android
 ## OS
