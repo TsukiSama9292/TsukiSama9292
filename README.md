@@ -8,13 +8,16 @@ No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
 ## Education
 + 2022.09-Present B.S. in Computer Science and Engineering, National Ilan University
 ## Interests
-+ Server(Linux&Docker)
-+ Large Language Models
++ DevOps & Kubernetes & Docker & Linux
++ Large Language Models(LLM)
 + Android
 ## OS
-+ Main: Linux (Ubuntu 24.04/22.04 LTS)
-+ Usually: Windows (11/10) 
++ Linux: Ubuntu 22.04 LTS ( Desktop & Server ) , Proxmox VE(PVE)
++ Windows: 11/10 (not server version)
 ## Skill
 + Natural Language: Chinese(mother tongue)
-+ Programming Language: **Python** , **Java** , VB , C++
++ Programming Language: **Python** , **Java** , C++
 + Programming Framework: **PyTorch**
++ Virtual Machine: **VirtualBox** , **Proxmox VE(PVE)**
++ Server: **Nginx** , Django
++ Kubernetes: **Rancher + K3s**
