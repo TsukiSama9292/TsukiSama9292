@@ -13,9 +13,9 @@ No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
 + Android
 ## OS
 + Linux: Ubuntu 22.04 LTS ( Desktop & Server ) , Proxmox VE(PVE)
-![Ubuntu桌面](/assets/Ubuntu.png)
-![Ubuntu伺服](/assets/Ubuntu-Server.png)
-![Proxmox VE](/assets/PVE.png)
+![Ubuntu桌面](/assets/img/Ubuntu-Desktop.png)
+![Ubuntu伺服](/assets/img/Ubuntu-Server.png)
+![Proxmox VE](/assets/img/PVE.png)
 + Windows: 11/10 (not server version)
 ## Skill
 + Natural Language: Chinese(mother tongue)
