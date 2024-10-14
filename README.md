@@ -14,11 +14,11 @@ No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
 + Large Language Models(LLM) + Large Multimodal Model(LMM)
 + Mobile Device
 ## OS
-+ Linux: Ubuntu 22.04 LTS ( Desktop & Server ) , Proxmox VE(PVE)
++ Linux: **Ubuntu 22.04 LTS ( Desktop & Server )** , **Proxmox VE(PVE)**
 ![Ubuntu桌面](/assets/img/Ubuntu-Desktop.png)
 ![Ubuntu伺服](/assets/img/Ubuntu-Server.png)
 ![Proxmox VE](/assets/img/PVE.png)
-+ Windows: 11/10 (not server version)
++ Windows: 11/10 ( Home & Pro )
 ## Skill
 + Natural Language: Chinese(mother tongue)
 + AI: **Pre-Training** , **Fine-Tuning** , **RAG(LLM)** 
