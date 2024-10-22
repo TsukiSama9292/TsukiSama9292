@@ -11,7 +11,7 @@ No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
 + DevOps & Kubernetes
 + Ops(engineer)
 + Docker & Linux
-+ Large Language Models(LLM) + Large Multimodal Model(LMM)
++ LLMs , MLLMs
 + Mobile Device
 ## OS
 + Linux: **Ubuntu 22.04 LTS ( Desktop & Server )** , **Proxmox VE(PVE)**
