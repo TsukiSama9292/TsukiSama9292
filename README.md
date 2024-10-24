@@ -6,7 +6,7 @@
 Taiwan, National Ilan University  
 No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
 ## Education
-+ 2022.09-Present B.S. in Computer Science and Engineering, National Ilan University
++ 2022.09-Present B.S. , Department of Computer Science and Information Engineering , National Ilan University
 ## Interests
 + DevOps & Kubernetes
 + Ops(engineer)
