@@ -26,5 +26,5 @@ No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
 + Deep Learning Framework: **PyTorch**
 + OS: **Linux** , **Windows**
 + Kubernetes: **Rancher + K3s**
-+ Web/API Server: Django
 + Proxy Server / Load Balancer : **Nginx**
++ Web/API Server: Django
