@@ -21,10 +21,10 @@ No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
 + Windows: 11/10 ( Home & Pro )
 ## Skill
 + Natural Language: Chinese(mother tongue)
-+ AI: **Pre-Training** , **Fine-Tuning** , **RAG(LLM)** 
 + Programming Language: **Python** , **Java** , C++
-+ Programming Framework: **PyTorch**
-+ Virtual Machine: **Proxmox VE(PVE)** , **VirtualBox**
++ AI: **LLM Pre-train/Fine-turn** , **LLM RAG** , **Custom ANNs(Pytorch)**
++ Deep Learning Framework: **PyTorch**
++ OS: **Linux** , **Windows**
 + Kubernetes: **Rancher + K3s**
-+ Server: **Nginx**
-+ API Server: Django
++ Web/API Server: Django
++ Proxy Server / Load Balancer : **Nginx**
