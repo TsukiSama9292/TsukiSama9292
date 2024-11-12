@@ -22,7 +22,7 @@ No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
 ## Skill
 + Natural Language: Chinese(mother tongue)
 + Programming Language: **Python** , **Java** , C++
-+ AI: **LLM Pre-train/Fine-turn** , **LLM RAG** , **Custom ANNs(Pytorch)**
++ AI: **LLM Pre-train/Fine-turn** , **LLM RAG** , **ANNs**
 + Deep Learning Framework: **PyTorch**
 + OS: **Linux** , **Windows**
 + Kubernetes: **Rancher + K3s**
