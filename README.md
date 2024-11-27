@@ -3,7 +3,7 @@
 
 # XuanYou Lin
 ### *B.S. Student*
-Taiwan, National Ilan University  
+National Ilan University, Taiwan  
 No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
 
 ## Education
@@ -20,11 +20,11 @@ No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
 + Web / API Server: Django
  
 ## Interests
-+ DevOps & Kubernetes
-+ Ops(engineer)
++ LLMs & MLLMs
 + Docker & Linux
-+ LLMs , MLLMs
++ DevOps & Kubernetes
 + Mobile Device
++ Ops(engineer)
 
 ## OS
 + Linux: **Ubuntu 22.04 LTS ( Desktop & Server )** , **Proxmox VE(PVE)**
