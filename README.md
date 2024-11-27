@@ -5,20 +5,10 @@
 ### *B.S. Student*
 Taiwan, National Ilan University  
 No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
+
 ## Education
 + 2022.09-Present B.S. , Department of Computer Science and Information Engineering , National Ilan University
-## Interests
-+ DevOps & Kubernetes
-+ Ops(engineer)
-+ Docker & Linux
-+ LLMs , MLLMs
-+ Mobile Device
-## OS
-+ Linux: **Ubuntu 22.04 LTS ( Desktop & Server )** , **Proxmox VE(PVE)**
-![Ubuntu桌面](/assets/img/Ubuntu-Desktop.png)
-![Ubuntu伺服](/assets/img/Ubuntu-Server.png)
-![Proxmox VE](/assets/img/PVE.png)
-+ Windows: 11/10 ( Home & Pro )
+
 ## Skill
 + Natural Language: Chinese(mother tongue)
 + Programming Language: **Python** , **Java** , C++
@@ -28,3 +18,17 @@ No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
 + Kubernetes: **Rancher + K3s**
 + Proxy Server / Load Balancer : **Nginx**
 + Web / API Server: Django
+ 
+## Interests
++ DevOps & Kubernetes
++ Ops(engineer)
++ Docker & Linux
++ LLMs , MLLMs
++ Mobile Device
+
+## OS
++ Linux: **Ubuntu 22.04 LTS ( Desktop & Server )** , **Proxmox VE(PVE)**
+![Ubuntu桌面](/assets/img/Ubuntu-Desktop.png)
+![Ubuntu伺服](/assets/img/Ubuntu-Server.png)
+![Proxmox VE](/assets/img/PVE.png)
++ Windows: 11/10 ( Home & Pro )
