@@ -17,7 +17,7 @@ No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
 + OS: **Linux** , **Windows**
 + Kubernetes: **Rancher + K3s**
 + Proxy Server / Load Balancer : **Nginx**
-+ Web / API Server: Django
++ Web / API Server: FastAPI, Django
  
 ## Interests
 + LLMs & MLLMs
