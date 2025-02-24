@@ -28,7 +28,4 @@ No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
 
 ## OS
 + Linux: **Ubuntu 22.04 LTS ( Desktop & Server )** , **Proxmox VE(PVE)**
-![Ubuntu桌面](/assets/img/Ubuntu-Desktop.png)
-![Ubuntu伺服](/assets/img/Ubuntu-Server.png)
-![Proxmox VE](/assets/img/PVE.png)
 + Windows: 11/10 ( Home & Pro )
