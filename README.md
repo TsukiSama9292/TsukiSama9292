@@ -20,7 +20,7 @@ No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
 + Web / API Server: FastAPI, Django
  
 ## Interests
-+ LLMs & MLLMs
++ LLMs & DL
 + Docker & Linux
 + DevOps & Kubernetes
 + Mobile Device
