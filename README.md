@@ -27,5 +27,5 @@ No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
 + Ops(engineer)
 
 ## OS
-+ Linux: **Ubuntu 22.04 LTS ( Desktop & Server )** , **Proxmox VE(PVE)**
++ Linux: **Ubuntu 24.04/22.04 LTS ( Desktop & Server )** , **Proxmox VE(PVE)**
 + Windows: 11/10 ( Home & Pro )
