@@ -2,7 +2,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=TsukiSama9292" alt="TsukiSama9292" />
 
 # XuanYou Lin
-### *B.E. Student*
+### *B.Eng. Student*
 National Ilan University, Taiwan  
 No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
 
