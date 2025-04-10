@@ -7,7 +7,7 @@ National Ilan University, Taiwan
 No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
 
 ## Education
-+ 2022.09-Present B.S. , Department of Computer Science and Information Engineering , National Ilan University
++ 2022.09-Present B.Eng. , Department of Computer Science and Information Engineering , National Ilan University
 
 ## Skill
 + Natural Language: Chinese(mother tongue)
