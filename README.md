@@ -27,6 +27,23 @@ National Ilan University, Taiwan
 
 ---
 
+## 🏆 Project
+
+### [K12EDU](https://github.com/k12edu) – *Leader & Developer* 🚀  
+🎓 RFID Lab, Department of Computer Science and Information Engineering, National Ilan University | 2024 Capstone Project Team  
+
+We are a five-member team dedicated to developing an **AI-integrated digital learning platform** that makes K-12 education more engaging and effective through gamification.
+
+- 🔗 [About the Organization](https://www.k12edu.uk)  
+- 🎮 [Digital Learning Game Platform](https://game.k12edu.uk) – browser-based games  
+- 🤖 [AI Learning Assistant](https://ai.k12edu.uk/) – integrated with web search and RAG technology  
+- 📝 [Teacher Question Upload Platform](https://teacher.k12edu.uk/) – design educational content with AI assistance  
+- 🐧 [Linux Lab](https://linux-lab.k12edu.uk/#/) – hands-on development environment for IT learners
+
+Our mission: **Make learning fun, challenging, and rewarding!**
+
+---
+
 ## 💡 Interests  
 + 🧠 LLMs & Deep Learning  
 + 🐳 Docker & Linux  
