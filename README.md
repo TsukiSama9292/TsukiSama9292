@@ -49,11 +49,10 @@ Our mission: **Make learning fun, challenging, and rewarding!**
 ---
 
 ## 💡 Interests  
-+ 🧠 LLMs & Deep Learning  
-+ 🐳 Docker & Linux  
-+ 🔧 DevOps & Kubernetes  
-+ 📱 Mobile Devices  
-+ 🛠️ Ops (engineer)
++ 🎯 Agentic AI    
++ 🧠 Deep Learning  
++ 🌐 DevOps 
++ ☁️ Cloud Storage / Cloud Computing
 
 ---
 
