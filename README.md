@@ -1,9 +1,15 @@
 # XuanYou Lin
 ### 🎓 *B.Eng. Student & Developer(AI, DevOps, Full-Stack)*  
 + **2022.09 – Present**  
-  👨‍🎓 B.Eng., Department of Computer Science(CS) and Information Engineering  
+  👨‍🎓 B.Eng., Department of Computer Science(C
+S) and Information Engineering  
   🏫 National Ilan University(NIU), Taiwan  
   📍 No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
+* **2023.11 - Present**
+  🧑‍💻 Leader & Developer(AI, DevOps, Full-Stack)
+  🥼 C.S RFID Lab(will name Radar lab) of National Ilan University(NIU), Taiwan  
+* **2025.02 - Present**
+  🧑‍💻 AI Developer
 
 ---
 
