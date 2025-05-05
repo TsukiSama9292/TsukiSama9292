@@ -42,6 +42,8 @@ We are a five-member team dedicated to developing an **AI-integrated digital lea
 
 Our mission: **Make learning fun, challenging, and rewarding!**
 
+### [LaplaceAI-Lab](https://github.com/LaplaceAI-Lab) – *AI Developer* 🚀
+
 ---
 
 ## 💡 Interests  
