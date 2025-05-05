@@ -1,7 +1,9 @@
 # XuanYou Lin
 ### 🎓 *B.Eng. Student & Developer(AI, DevOps, Full-Stack)*  
-National Ilan University, Taiwan  
-📍 No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
++ **2022.09 – Present**  
+  👨‍🎓 B.Eng., Department of Computer Science(CS) and Information Engineering  
+  🏫 National Ilan University(NIU), Taiwan  
+  📍 No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
 
 ---
 
@@ -21,13 +23,6 @@ National Ilan University, Taiwan
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TsukiSama9292&theme=gruvbox&row=1&column=7" alt="trophy" />
 </p>
-
----
-
-## 📚 Education  
-+ **2022.09 – Present**  
-  B.Eng., Department of Computer Science and Information Engineering  
-  National Ilan University
 
 ---
 
