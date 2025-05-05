@@ -55,13 +55,13 @@ Our mission: **Make learning fun, challenging, and rewarding!**
 + 🗣️ **Natural Language:** Chinese (mother tongue)  
 + 💻 **Programming Languages:** Python, JavaScript, Java, C++
 + 🤖 **AI:** AI Agnet, LLM Fine-tune, LLM RAG, Transformers  
-+ 🔬 **Deep Learning Framework:** PyTorch    
-+ ☸️ **Kubernetes:** Rancher + K3s    
-+ 🧩 **Full-Stack Framework:** Django
-+ 🖥️ **Front-End Framework:** Vuetify3
-+ ⚒️ **Back-End Framework:** FastAPI
-+ 🌐 **Proxy / Load Balancer:** Nginx
-+ 🧑‍💻 **OS:** Linux, Windows
++ 🔬 **Deep Learning Framework:** PyTorch  
++ ☸️ **Kubernetes:** Rancher + K3s  
++ 🖥️ **Front-End Framework:** Vuetify3  
++ ⚒️ **Back-End Framework:** FastAPI  
++ 🧩 **Full-Stack Framework:** Django  
++ 🌐 **Proxy / Load Balancer:** Nginx  
++ 🧑‍💻 **OS:** Linux, Windows  
 
 ---
 
