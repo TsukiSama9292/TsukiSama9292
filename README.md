@@ -7,7 +7,7 @@ S) and Information Engineering
   📍 No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260  
 + **2023.11 - Present**  
   🧑‍💻 Leader & Developer(AI, DevOps, Full-Stack)
-  🥼 C.S RFID Lab(will name Radar lab) of National Ilan University(NIU), Taiwan  
+  🥼 C.S RFID Lab(will name Radar Lab) of National Ilan University(NIU), Taiwan  
 + **2025.02 - Present**  
   🧑‍💻 AI Developer  
 
