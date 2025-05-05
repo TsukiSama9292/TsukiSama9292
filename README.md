@@ -1,10 +1,26 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=TsukiSama9292&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
-<img align="right" src="https://komarev.com/ghpvc/?username=TsukiSama9292" alt="TsukiSama9292" />
-
 # XuanYou Lin
-### 🎓 *B.Eng. Student*  
+### 🎓 *B.Eng. Student & Developer(AI, DevOps, Full-Stack)*  
 National Ilan University, Taiwan  
 📍 No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260
+
+---
+
+<!-- GitHub Stats Side by Side -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=TsukiSama9292&show_icons=true&theme=gruvbox&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsukiSama9292&layout=compact&theme=gruvbox&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+<!-- GitHub Profile Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TsukiSama9292&theme=gruvbox&row=1&column=7" alt="trophy" />
+</p>
 
 ---
 
