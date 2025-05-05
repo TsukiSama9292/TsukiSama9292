@@ -1,4 +1,4 @@
-# XuanYou Lin
+# Xuan-You Lin
 ### 🎓 *B.Eng. Student & Developer(AI, DevOps, Full-Stack)*  
 + **2022.09 – Present**  
   👨‍🎓 B.Eng., Department of Computer Science(C
