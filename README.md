@@ -52,7 +52,7 @@ Our mission: **Make learning fun, challenging, and rewarding!**
 
 ## 🛠️ Skills  
 + 🗣️ **Natural Language:** Chinese (mother tongue)  
-+ 💻 **Programming Languages:** Python, Java, C++  
++ 💻 **Programming Languages:** Python, JavaScript, Java, C++
 + 🤖 **AI:** AI Agnet, LLM Fine-tune, LLM RAG, Transformers  
 + 🔬 **Deep Learning Framework:** PyTorch    
 + ☸️ **Kubernetes:** Rancher + K3s    
