@@ -15,18 +15,6 @@ National Ilan University, Taiwan
 
 ---
 
-## 🛠️ Skills  
-+ 🗣️ **Natural Language:** Chinese (mother tongue)  
-+ 💻 **Programming Languages:** Python, Java, C++  
-+ 🤖 **AI:** LLM Pre-train/Fine-tune, LLM RAG, ANNs  
-+ 🔬 **Deep Learning Framework:** PyTorch  
-+ 🧑‍💻 **OS:** Linux, Windows  
-+ ☸️ **Kubernetes:** Rancher + K3s  
-+ 🌐 **Proxy / Load Balancer:** Nginx  
-+ 🧩 **Web / API Server:** FastAPI, Django
-
----
-
 ## 🏆 Project
 
 ### [K12EDU](https://github.com/k12edu) – *Leader & Developer(AI, DevOps, Full-Stack)* 🚀  
@@ -43,6 +31,18 @@ We are a five-member team dedicated to developing an **AI-integrated digital lea
 Our mission: **Make learning fun, challenging, and rewarding!**
 
 ### [LaplaceAI-Lab](https://github.com/LaplaceAI-Lab) – *AI Developer* 🚀
+
+---
+
+## 🛠️ Skills  
++ 🗣️ **Natural Language:** Chinese (mother tongue)  
++ 💻 **Programming Languages:** Python, Java, C++  
++ 🤖 **AI:** LLM Pre-train/Fine-tune, LLM RAG, ANNs  
++ 🔬 **Deep Learning Framework:** PyTorch  
++ 🧑‍💻 **OS:** Linux, Windows  
++ ☸️ **Kubernetes:** Rancher + K3s  
++ 🌐 **Proxy / Load Balancer:** Nginx  
++ 🧩 **Web / API Server:** FastAPI, Django
 
 ---
 
