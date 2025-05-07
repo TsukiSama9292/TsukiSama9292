@@ -1,14 +1,16 @@
 # Xuan-You Lin
-### 🎓 *B.Eng. Student & Developer(AI, DevOps, Full-Stack)*  
-+ **2022.09 – Present**  
-  👨‍🎓 B.Eng., Department of Computer Science(C.S) and Information Engineering  
-  🏫 National Ilan University(NIU), Taiwan  
-  📍 No. 1, Section 1, Shennong Rd, Yilan City, Yilan County, 260  
-+ **2023.11 - Present**  
-  🧑‍💻 Leader & Developer(AI, DevOps, Full-Stack)  
-  🥼 C.S RFID Lab(will name Radar Lab) of NIU
-+ **2025.02 - Present**  
-  🧠 AI Developer  
+### 🎓 *B.Eng. Student & Developer (AI, DevOps, Full-Stack)*  
++ **Sep 2022 – Present**  
+  👨‍🎓 B.Eng. in Computer Science and Information Engineering  
+  🏫 National Ilan University (NIU), Taiwan  
+  📍 No. 1, Section 1, Shennong Rd, Yilan City, Yilan County 260, Taiwan  
++ **Nov 2023 – Present**  
+  🧑‍💻 Team Leader & Developer (AI, DevOps, Full-Stack)  
+  🥼 Computer Science RFID Lab (soon to be renamed Radar Lab), NIU  
+  🏆 1st Place – 2025 College of Electrical Engineering and Computer Science Capstone Project Exhibition  
++ **Feb 2025 – Present**  
+  🧠 AI Developer at [LaplaceAI](https://laplaceai.co/)
+
 
 ---
 
@@ -31,7 +33,7 @@
 
 ---
 
-## 🏆 Project
+## 💼 Project
 
 ### [K12EDU](https://github.com/k12edu) – *Leader & Developer(AI, DevOps, Full-Stack)* 🚀  
 🎓 RFID Lab, Department of Computer Science and Information Engineering, National Ilan University | 2024 Capstone Project Team  
@@ -51,17 +53,25 @@ Our mission: **Make learning fun, challenging, and rewarding!**
 
 ---
 
-## 🛠️ Skills  
-+ 🗣️ **Natural Language:** Chinese (mother tongue)  
-+ 💻 **Programming Languages:** Python, JavaScript, Java, C++
-+ 🤖 **AI:** AI Agnet, LLM Fine-tune, LLM RAG, Transformers  
-+ 🔬 **Deep Learning Framework:** PyTorch  
-+ ☸️ **Kubernetes:** Rancher + K3s  
-+ 🖥️ **Front-End Framework:** Vuetify3  
-+ ⚒️ **Back-End Framework:** FastAPI  
-+ 🧩 **Full-Stack Framework:** Django  
-+ 🌐 **Proxy / Load Balancer:** Nginx  
-+ 🧑‍💻 **OS:** Linux, Windows  
+## 🛠️ Technical Skills
+
+| Category                    | Skills                                                            |
+| --------------------------- | ----------------------------------------------------------------- |
+| **Programming Languages**   | Python, Java, C++, JavaScript                                     |
+| **AI & ML**                 | LLM Post-Training, RAG, Prompt Engineering, PyTorch, Transformers |
+| **Containers & Automation** | Docker, Kubernetes (K3s, Rancher), GitHub Actions                 |
+| **Servers & Networking**    | Ubuntu, Proxmox VE, Rocky, Nginx, Cloudflare                      |
+| **Web Development**         | Django (Full-Stack), FastAPI (Back-End), Vue.js (Vuetify3)        |
+
+---
+
+
+## 🏆 Competition Record
+
+| Year | Competition Name         | Role           | Award / Ranking |
+|------|--------------------------|----------------|-----------------|
+| 2025 | [College of Electrical Engineering and Computer Science Capstone Project Exhibition](https://youtu.be/RqBohV5BCAU?t=4021)   | Team Leader    | 1st Place       |
+
 
 ---
 
@@ -70,9 +80,3 @@ Our mission: **Make learning fun, challenging, and rewarding!**
 + 🧠 Deep Learning  
 + 🌐 DevOps 
 + ☁️ Cloud Storage / Cloud Computing
-
----
-
-## 💻 Operating Systems  
-+ 🐧 **Linux:** Ubuntu 24.04 / 22.04 LTS (Desktop & Server), Proxmox VE (PVE)  
-+ 🪟 **Windows:** 11 / 10 (Home & Pro)
