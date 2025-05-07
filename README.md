@@ -44,7 +44,7 @@ My responsibilities span AI development, DevOps, full-stack engineering, server 
 ### [K12EDU](https://github.com/k12edu) – *Leader & Developer(AI, DevOps, Full-Stack)* 🚀  
 🎓 RFID Lab, Department of Computer Science and Information Engineering, National Ilan University | 2024 Capstone Project Team  
 
-We are a five-member team dedicated to developing an **AI-integrated digital learning platform** that makes K-12 education more engaging and effective through gamification.
+We are a four-member team dedicated to developing an **AI-integrated digital learning platform** that makes K-12 education more engaging and effective through gamification.
 
 - 🔗 [About the Organization](https://www.k12edu.uk)  
 - 🎮 [Digital Learning Game Platform](https://game.k12edu.uk) – browser-based games  
