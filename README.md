@@ -50,7 +50,7 @@ We are a five-member team dedicated to developing an **AI-integrated digital lea
 - 🎮 [Digital Learning Game Platform](https://game.k12edu.uk) – browser-based games  
 - 🤖 [AI Learning Assistant](https://ai.k12edu.uk/) – integrated with web search and RAG technology  
 - 📝 [Teacher Question Upload Platform with AI](https://teacher.k12edu.uk/) – design educational content with AI assistance  
-- ⚖️ [Online Judge](https://judge.k12edu.uk/) — provide programming questions and verify the correctness of the program
+- ⚖️ [Online Judge](https://judge.k12edu.uk/) – provide programming questions and verify the correctness of the program  
 - 🐧 [Linux Lab](https://linux-lab.k12edu.uk/#/) – hands-on development document for IT learners
 
 Our mission: **Make learning fun, challenging, and rewarding!**
