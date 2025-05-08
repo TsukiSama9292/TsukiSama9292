@@ -78,7 +78,7 @@ Our mission: **Make learning fun, challenging, and rewarding!**
 
 | Year | Competition Name         | Role           | Award / Ranking |
 |------|--------------------------|----------------|-----------------|
-| 2025 | [College of Electrical Engineering and Computer Science Capstone Project Exhibition](https://youtu.be/RqBohV5BCAU?t=4021)   | Team Leader    | 1st Place       |
+| 2025 | [College of Electrical Engineering and Computer Science Capstone Project Exhibition](https://raw.githubusercontent.com/TsukiSama9292/OpenData/refs/heads/main/images/Certificates_and_Diplomas/College_of_Electrical_Engineering_and_Computer_Science_Capstone_Project_Exhibition.png)   | Team Leader    | 1st Place       |
 
 
 ---
