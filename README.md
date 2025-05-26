@@ -9,6 +9,7 @@
 + 🧑‍💻 [K12EDU](https://github.com/k12edu). Team Leader & Developer (AI, DevOps, Full-Stack)  
 + 🥼 Computer Science RFID Lab (soon to be renamed Radar Lab), NIU  
 + 🏆 1st Place – 2025 College of Electrical Engineering and Computer Science Capstone Research Achievement Competition, NIU
++ 📊 Contribution: 50%
 
 **Feb 2025 – Present**  
 + 🧠 AI Developer at [LaplaceAI](https://laplaceai.co/)
