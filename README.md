@@ -30,8 +30,8 @@
 
 **2025.09 – Present**
 * 😮‍💨 Deep Learning Dropout & Reliable AI Advocate
-  * 🛑 Abandoned Deep Learning: Despite approaches like QLoRA that lower fine-tuning costs, achieving stable, efficient, and low-hallucination training still demands prohibitively high resources—making it an unsustainable path.
-  * 🔄 Pivot to Reliability: Instead of relying on black-box deep learning models with uncontrollable factors, I now focus on principle-driven designs and algorithmic techniques (beyond deep learning) to engineer AI systems that are both stable and efficient.
+  * 🛑 Stepping Away from Deep Learning: The current landscape of deep learning demands enormous computational and financial resources to achieve stability, efficiency, and low hallucination rates. Such requirements make it increasingly impractical and unsustainable for long-term development.
+  * 🔄 Pivot to Reliability: Rather than relying on opaque deep learning models with many uncontrollable factors, I now focus on principle-driven design and algorithmic techniques (beyond deep learning) to build AI systems that are both stable and efficient.
 
 ---
 
