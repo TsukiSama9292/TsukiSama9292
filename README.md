@@ -89,15 +89,14 @@ Our mission: **Make learning fun, challenging, and rewarding!**
 
 | Category                    | Skills                                                            |
 | --------------------------- | ----------------------------------------------------------------- |
-| **Programming Languages**   | Python, Java, C++, JavaScript                                     |
-| **AI & ML**                 | LLM Post-Training, RAG, Prompt Engineering, PyTorch, Transformers |
-| **Containers & Automation** | Docker, Kubernetes (K3s, Rancher), GitHub Actions                 |
-| **Servers & Networking**    | Ubuntu, Proxmox VE, Rocky, Nginx, Cloudflare                      |
-| **Web Development**         | Django (Full-Stack), FastAPI (Back-End), Nuxt.js, Next.js (Front-End)     |
-| **Database**                | PostgreSQL, MySQL/MariaDB                                         |
+| **Programming** | Python, JavaScript, TypeScript |
+| **AI** | Context Engineering, LLM Post-Training |
+| **DevOps** | Docker, K8s, CI/CD |
+| **Servers** | Ubuntu, Proxmox VE, Rocky, Nginx, CDN |
+| **Web** | FastAPI, Django, Nuxt.js, Next.js |
+| **Database** | PostgreSQL |
 
 ---
-
 
 ## 🏆 Competition Record
 
