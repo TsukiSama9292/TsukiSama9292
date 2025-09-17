@@ -64,6 +64,8 @@ At K12EDU, we have greatly benefited from the invaluable suggestions and constru
 
 ### [K12EDU](https://github.com/k12edu) – *Leader & Developer(AI, DevOps, Full-Stack)* 🚀  
 
+<details>
+  <summary>📖 Click To Open</summary>
 🎓 RFID Lab, Department of Computer Science and Information Engineering, National Ilan University | 2024 Capstone Project Team  
 
 We are a four-member team dedicated to developing an **AI-integrated digital learning platform** that makes K-12 education more engaging and effective through gamification.
@@ -76,6 +78,8 @@ We are a four-member team dedicated to developing an **AI-integrated digital lea
 - 🐧 [Linux Lab](https://linux-lab.k12edu.uk/#/) – hands-on development document for IT learners
 
 Our mission: **Make learning fun, challenging, and rewarding!**
+
+</details>
 
 ### [LaplaceAI-Lab](https://github.com/LaplaceAI-Lab) – *AI Developer* 🚀
 
