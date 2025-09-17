@@ -43,6 +43,18 @@
 
 ---
 
+## About Me
+<details>
+  <summary>📖 Click To Open</summary>
+I am an innovative third-year Computer Science and Information Engineering student at National Ilan University, with a passion for integrating artificial intelligence into digital learning games and pursuing cutting-edge research. Since February 2025, I have been working as an AI Developer at LaplaceAI, where I focus on developing AI agents and exploring frontier research topics. In November 2023, I took the lead in founding K12EDU, whose mission is to make learning fun, challenging, and rewarding. Through K12EDU, I have overseen the development of a large-scale smart education platform alongside a talented team that includes a Unity game design engineer, a back-end game logic API engineer, and two full-stack engineers—including myself.
+
+My responsibilities span AI development, DevOps, full-stack engineering, server system architecture design, CI/CD pipeline implementation, technical research, backend and server infrastructure management, cybersecurity, and overall operations—all of which I manage directly. Under my leadership, our 2025 capstone project earned first place. I bring strong expertise in AI agent development, prompt engineering, system design, server architecture, Unity integration with APIs and web servers, container orchestration, and full-stack web frameworks.
+
+At K12EDU, we have greatly benefited from the invaluable suggestions and constructive feedback provided by supervising professors, lab seniors, and volunteer testers. Their insights have played a crucial role in refining our platform and shaping our design and development strategies, and I am deeply grateful for their support.
+</details>
+
+---
+
 ## Roadmap
 <details>
   <summary>📖 Click To Open</summary>
@@ -71,18 +83,6 @@
 * 😮‍💨 Deep Learning Dropout & Reliable AI Advocate
   * 🛑 Stepping Away from Deep Learning: The current landscape of deep learning demands enormous computational and financial resources to achieve stability, efficiency, and low hallucination rates. Such requirements make it increasingly impractical and unsustainable for long-term development.
   * 🔄 Pivot to Reliability: Instead of treating deep learning as an opaque black box, my focus is on moving beyond purely deep learning approaches by integrating principle-driven design and algorithmic techniques. The goal is to make AI more reliable—closer to stable software engineering rather than unpredictable experimentation.
-</details>
-
----
-
-## About Me
-<details>
-  <summary>📖 Click To Open</summary>
-I am an innovative third-year Computer Science and Information Engineering student at National Ilan University, with a passion for integrating artificial intelligence into digital learning games and pursuing cutting-edge research. Since February 2025, I have been working as an AI Developer at LaplaceAI, where I focus on developing AI agents and exploring frontier research topics. In November 2023, I took the lead in founding K12EDU, whose mission is to make learning fun, challenging, and rewarding. Through K12EDU, I have overseen the development of a large-scale smart education platform alongside a talented team that includes a Unity game design engineer, a back-end game logic API engineer, and two full-stack engineers—including myself.
-
-My responsibilities span AI development, DevOps, full-stack engineering, server system architecture design, CI/CD pipeline implementation, technical research, backend and server infrastructure management, cybersecurity, and overall operations—all of which I manage directly. Under my leadership, our 2025 capstone project earned first place. I bring strong expertise in AI agent development, prompt engineering, system design, server architecture, Unity integration with APIs and web servers, container orchestration, and full-stack web frameworks.
-
-At K12EDU, we have greatly benefited from the invaluable suggestions and constructive feedback provided by supervising professors, lab seniors, and volunteer testers. Their insights have played a crucial role in refining our platform and shaping our design and development strategies, and I am deeply grateful for their support.
 </details>
 
 ---
