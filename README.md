@@ -5,6 +5,7 @@
 ---
 
 ## 🛠️ Technical Skills
+> ⚡ *Note: This section highlights only my core / most relevant skills.*
 
 | Category                    | Skills                                                            |
 | --------------------------- | ----------------------------------------------------------------- |
