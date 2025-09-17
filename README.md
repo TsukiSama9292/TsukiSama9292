@@ -28,6 +28,11 @@
   + 📚 [Dataset: TW-GSAT-Chinese](https://huggingface.co/datasets/TsukiOwO/TW-GSAT-Chinese)  
   + 💬 [Discord Link](https://discord.gg/Cx737yw4ed)
 
+**2025.09 – Present**
+* 😮‍💨 Deep Learning Dropout & Reliable AI Advocate
+  * 🛑 Abandoned Deep Learning: Despite approaches like QLoRA that lower fine-tuning costs, achieving stable, efficient, and low-hallucination training still demands prohibitively high resources—making it an unsustainable path.
+  * 🔄 Pivot to Reliability: Instead of relying on black-box deep learning models with uncontrollable factors, I now focus on principle-driven designs and algorithmic techniques (beyond deep learning) to engineer AI systems that are both stable and efficient.
+
 ---
 
 ## About Me
