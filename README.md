@@ -47,9 +47,10 @@
 ## 🧑‍💻 About Me
 <details>
   <summary>📖 Click To Open</summary>
-I am an innovative third-year Computer Science and Information Engineering student at National Ilan University, with a passion for integrating artificial intelligence into digital learning games and pursuing cutting-edge research. Since February 2025, I have been working as an AI Developer at LaplaceAI, where I focus on developing AI agents and exploring frontier research topics. In November 2023, I took the lead in founding K12EDU, whose mission is to make learning fun, challenging, and rewarding. Through K12EDU, I have overseen the development of a large-scale smart education platform alongside a talented team that includes a Unity game design engineer, a back-end game logic API engineer, and two full-stack engineers—including myself.
 
-My responsibilities span AI development, DevOps, full-stack engineering, server system architecture design, CI/CD pipeline implementation, technical research, backend and server infrastructure management, cybersecurity, and overall operations—all of which I manage directly. Under my leadership, our 2025 capstone project earned first place. I bring strong expertise in AI agent development, prompt engineering, system design, server architecture, Unity integration with APIs and web servers, container orchestration, and full-stack web frameworks.
+I am an innovative third-year Computer Science and Information Engineering student at National Ilan University, with a passion for integrating artificial intelligence into digital learning games and pursuing cutting-edge research. Since February 2025, I have been working as an AI Developer at LaplaceAI, where I focus on developing AI agents and exploring frontier research topics. In November 2023, I took the lead in founding K12EDU, whose mission is to make learning fun, challenging, and rewarding. Through K12EDU, I have overseen the development of a large-scale smart education platform alongside a talented team that includes a Unity game design engineer, a back-end game logic API engineer, and two full-stack engineers—including myself.  
+
+My responsibilities span AI development, DevOps, full-stack engineering, server system architecture design, CI/CD pipeline implementation, technical research, backend and server infrastructure management, cybersecurity, and overall operations—all of which I manage directly. Under my leadership, our 2025 capstone project earned first place. I bring strong expertise in AI agent development, prompt engineering, system design, server architecture, Unity integration with APIs and web servers, container orchestration, and full-stack web frameworks.  
 
 At K12EDU, we have greatly benefited from the invaluable suggestions and constructive feedback provided by supervising professors, lab seniors, and volunteer testers. Their insights have played a crucial role in refining our platform and shaping our design and development strategies, and I am deeply grateful for their support.
 </details>
@@ -59,6 +60,7 @@ At K12EDU, we have greatly benefited from the invaluable suggestions and constru
 ## 🗺️ Roadmap
 <details>
   <summary>📖 Click To Open</summary>
+
 **2022.09 – Present**  
 + 👨‍🎓 B.Eng. in Computer Science and Information Engineering  
   + 🏫 National Ilan University (NIU), Taiwan  
@@ -84,6 +86,7 @@ At K12EDU, we have greatly benefited from the invaluable suggestions and constru
 * 😮‍💨 Deep Learning Dropout & Reliable AI Advocate
   * 🛑 Stepping Away from Deep Learning: The current landscape of deep learning demands enormous computational and financial resources to achieve stability, efficiency, and low hallucination rates. Such requirements make it increasingly impractical and unsustainable for long-term development.
   * 🔄 Pivot to Reliability: Instead of treating deep learning as an opaque black box, my focus is on moving beyond purely deep learning approaches by integrating principle-driven design and algorithmic techniques. The goal is to make AI more reliable—closer to stable software engineering rather than unpredictable experimentation.
+
 </details>
 
 ---
@@ -94,6 +97,7 @@ At K12EDU, we have greatly benefited from the invaluable suggestions and constru
 
 <details>
   <summary>📖 Click To Open</summary>
+
 🎓 RFID Lab, Department of Computer Science and Information Engineering, National Ilan University | 2024 Capstone Project Team  
 
 We are a four-member team dedicated to developing an **AI-integrated digital learning platform** that makes K-12 education more engaging and effective through gamification.
@@ -117,9 +121,11 @@ Our mission: **Make learning fun, challenging, and rewarding!**
 
 <details>
   <summary>📖 Click To Open</summary>
+
 | Year | Competition Name         | Role           | Award / Ranking |
 |------|--------------------------|----------------|-----------------|
 | 2025 | [College of Electrical Engineering and Computer Science Capstone Research Achievement Competition, NIU](https://raw.githubusercontent.com/TsukiSama9292/OpenData/refs/heads/main/images/Certificates_and_Diplomas/College_of_Electrical_Engineering_and_Computer_Science_Capstone_Project_Exhibition.png)   | Team Leader    | 1st Place       |
 | 2025 | Department of Computer Science and Information Engineering Capstone Research Achievement Competition, NIU | Team Leader | 2nd Place |
 | 2025 | Programming, Information, and AI Applications Competition, NIU | Team Leader | Excellence Award |
+
 </details>
