@@ -31,7 +31,7 @@
 **2025.09 – Present**
 * 😮‍💨 Deep Learning Dropout & Reliable AI Advocate
   * 🛑 Stepping Away from Deep Learning: The current landscape of deep learning demands enormous computational and financial resources to achieve stability, efficiency, and low hallucination rates. Such requirements make it increasingly impractical and unsustainable for long-term development.
-  * 🔄 Pivot to Reliability: Rather than relying on opaque deep learning models with many uncontrollable factors, I now focus on principle-driven design and algorithmic techniques (beyond deep learning) to build AI systems that are both stable and efficient.
+  * 🔄 Pivot to Reliability: Instead of treating deep learning as an opaque black box, my focus is on moving beyond purely deep learning approaches by integrating principle-driven design and algorithmic techniques. The goal is to make AI more reliable—closer to stable software engineering rather than unpredictable experimentation.
 
 ---
 
