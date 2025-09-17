@@ -1,6 +1,12 @@
 # Xuan-You Lin (Chinese name: 林宣佑)
 
-### 🎓 *B.Eng. Student & Developer (AI, DevOps, Full-Stack)*  
+### 🎓 *B.Eng. Student & Developer (AI, DevOps, Full-Stack)* 
+
+---
+
+## Roadmap
+<details>
+  <summary>📖 Click To Open</summary>
 **2022.09 – Present**  
 + 👨‍🎓 B.Eng. in Computer Science and Information Engineering  
   + 🏫 National Ilan University (NIU), Taiwan  
@@ -26,6 +32,7 @@
 * 😮‍💨 Deep Learning Dropout & Reliable AI Advocate
   * 🛑 Stepping Away from Deep Learning: The current landscape of deep learning demands enormous computational and financial resources to achieve stability, efficiency, and low hallucination rates. Such requirements make it increasingly impractical and unsustainable for long-term development.
   * 🔄 Pivot to Reliability: Instead of treating deep learning as an opaque black box, my focus is on moving beyond purely deep learning approaches by integrating principle-driven design and algorithmic techniques. The goal is to make AI more reliable—closer to stable software engineering rather than unpredictable experimentation.
+</details>
 
 ---
 
