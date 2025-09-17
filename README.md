@@ -1,4 +1,4 @@
-# Xuan-You Lin (Chinese name: 林宣佑)
+# Xuan-You Lin (林宣佑)
 
 ### 🎓 *B.Eng. Student & Developer (AI, DevOps, Full-Stack)* 
 
