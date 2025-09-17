@@ -4,6 +4,38 @@
 
 ---
 
+## 🛠️ Technical Skills
+
+| Category                    | Skills                                                            |
+| --------------------------- | ----------------------------------------------------------------- |
+| **Programming** | Python, JavaScript, TypeScript |
+| **AI** | Context Engineering, LLM Post-Training |
+| **DevOps** | Docker, K8s, CI/CD |
+| **Servers** | Ubuntu, Proxmox VE, Rocky, Nginx, CDN |
+| **Web** | FastAPI, Django, Nuxt.js, Next.js |
+| **Database** | PostgreSQL |
+
+---
+
+<!-- GitHub Stats Side by Side -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=TsukiSama9292&show_icons=true&theme=gruvbox&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsukiSama9292&layout=compact&theme=gruvbox&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+<!-- GitHub Profile Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TsukiSama9292&theme=gruvbox&row=1&column=7" alt="trophy" />
+</p>
+
+---
+
 ## Roadmap
 <details>
   <summary>📖 Click To Open</summary>
@@ -48,25 +80,6 @@ At K12EDU, we have greatly benefited from the invaluable suggestions and constru
 
 ---
 
-<!-- GitHub Stats Side by Side -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=TsukiSama9292&show_icons=true&theme=gruvbox&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsukiSama9292&layout=compact&theme=gruvbox&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<!-- GitHub Profile Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TsukiSama9292&theme=gruvbox&row=1&column=7" alt="trophy" />
-</p>
-
----
-
 ## 💼 Project
 
 ### [K12EDU](https://github.com/k12edu) – *Leader & Developer(AI, DevOps, Full-Stack)* 🚀  
@@ -89,19 +102,6 @@ Our mission: **Make learning fun, challenging, and rewarding!**
 </details>
 
 ### [LaplaceAI-Lab](https://github.com/LaplaceAI-Lab) – *AI Developer* 🚀
-
----
-
-## 🛠️ Technical Skills
-
-| Category                    | Skills                                                            |
-| --------------------------- | ----------------------------------------------------------------- |
-| **Programming** | Python, JavaScript, TypeScript |
-| **AI** | Context Engineering, LLM Post-Training |
-| **DevOps** | Docker, K8s, CI/CD |
-| **Servers** | Ubuntu, Proxmox VE, Rocky, Nginx, CDN |
-| **Web** | FastAPI, Django, Nuxt.js, Next.js |
-| **Database** | PostgreSQL |
 
 ---
 
