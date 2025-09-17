@@ -107,11 +107,9 @@ Our mission: **Make learning fun, challenging, and rewarding!**
 | 2025 | Department of Computer Science and Information Engineering Capstone Research Achievement Competition, NIU | Team Leader | 2nd Place |
 | 2025 | Programming, Information, and AI Applications Competition, NIU | Team Leader | Excellence Award |
 
-
 ---
 
 ## 💡 Interests  
-+ 🎯 Agentic AI    
-+ 🧠 Deep Learning  
-+ 🌐 DevOps 
-+ ☁️ Cloud Storage / Cloud Computing
++ 🎯 Agentic AI
++ 🌐 DevOps
++ ☁️ Cloud
