@@ -22,12 +22,6 @@
   + Intelligent Learning Assistant and Gamified Learning Platform: A Digital Education Solution Based on LLM and Unity
   + MOST Project Number 114-2813-C-197-023-E
 
-**2025.07 - Present**
-+ 🌟 Twinkle AI Contributors  
-  + 🛠️ [Tools: TW-TextForge](https://github.com/TsukiSama9292/TW-TextForge)  
-  + 📚 [Dataset: TW-GSAT-Chinese](https://huggingface.co/datasets/TsukiOwO/TW-GSAT-Chinese)  
-  + 💬 [Discord Link](https://discord.gg/Cx737yw4ed)
-
 **2025.09 – Present**
 * 😮‍💨 Deep Learning Dropout & Reliable AI Advocate
   * 🛑 Stepping Away from Deep Learning: The current landscape of deep learning demands enormous computational and financial resources to achieve stability, efficiency, and low hallucination rates. Such requirements make it increasingly impractical and unsustainable for long-term development.
