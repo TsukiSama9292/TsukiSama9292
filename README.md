@@ -44,7 +44,7 @@
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 <details>
   <summary>📖 Click To Open</summary>
 I am an innovative third-year Computer Science and Information Engineering student at National Ilan University, with a passion for integrating artificial intelligence into digital learning games and pursuing cutting-edge research. Since February 2025, I have been working as an AI Developer at LaplaceAI, where I focus on developing AI agents and exploring frontier research topics. In November 2023, I took the lead in founding K12EDU, whose mission is to make learning fun, challenging, and rewarding. Through K12EDU, I have overseen the development of a large-scale smart education platform alongside a talented team that includes a Unity game design engineer, a back-end game logic API engineer, and two full-stack engineers—including myself.
@@ -56,7 +56,7 @@ At K12EDU, we have greatly benefited from the invaluable suggestions and constru
 
 ---
 
-## Roadmap
+## 🗺️ Roadmap
 <details>
   <summary>📖 Click To Open</summary>
 **2022.09 – Present**  
