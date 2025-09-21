@@ -81,7 +81,7 @@ At K12EDU, we have greatly benefited from the invaluable suggestions and constru
 **2025.07 - Present**
 + 🇹🇼 College Student Research Project
   + Intelligent Learning Assistant and Gamified Learning Platform: A Digital Education Solution Based on LLM and Unity
-  + MOST Project Number 114-2813-C-197-023-E
+  + Project Number 114-2813-C-197-023-E
 
 **2025.09 – Present**
 * 😮‍💨 Deep Learning Dropout & Reliable AI Advocate
