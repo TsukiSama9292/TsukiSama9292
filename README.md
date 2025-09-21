@@ -11,9 +11,10 @@
 | --------------------------- | ----------------------------------------------------------------- |
 | **Programming** | Python, JavaScript, TypeScript |
 | **AI** | Context Engineering, LLM Post-Training |
-| **DevOps** | Docker, K8s, CI/CD |
-| **Servers** | Ubuntu, Proxmox VE, Rocky, Nginx, CDN |
-| **Web** | FastAPI, Django, Nuxt.js, Next.js |
+| **DevOps** | Docker, K8s, CI/CD(Github Actions) |
+| **OS** | Proxmox VE(PVE), Ubuntu, Rocky Linux, Alpine Linux |
+| **Servers** | Nginx, CDN |
+| **Web** | FastAPI, Django, Nuxt.js(vue.js), Next.js(react) |
 | **Database** | PostgreSQL |
 
 ---
