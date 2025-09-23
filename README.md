@@ -83,11 +83,6 @@ At K12EDU, we have greatly benefited from the invaluable suggestions and constru
   + Intelligent Learning Assistant and Gamified Learning Platform: A Digital Education Solution Based on LLM and Unity
   + Project Number 114-2813-C-197-023-E
 
-**2025.09 – Present**
-* 😮‍💨 Deep Learning Dropout & Reliable AI Advocate
-  * 🛑 Stepping Away from Deep Learning: The current landscape of deep learning demands enormous computational and financial resources to achieve stability, efficiency, and low hallucination rates. Such requirements make it increasingly impractical and unsustainable for long-term development.
-  * 🔄 Pivot to Reliability: Instead of treating deep learning as an opaque black box, my focus is on moving beyond purely deep learning approaches by integrating principle-driven design and algorithmic techniques. The goal is to make AI more reliable—closer to stable software engineering rather than unpredictable experimentation.
-
 </details>
 
 ---
