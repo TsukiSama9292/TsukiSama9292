@@ -22,8 +22,9 @@
 </p>
 
 ---
-
-## 🛠️ Technical Skills
+<details open>
+<summary>🛠️ Technical Skills</summary>
+<p>
 
 | Category | Skills |
 |----------|--------|
@@ -35,18 +36,21 @@
 | **Database** | PostgreSQL, Qdrant, PGVector |
 | **Game Engine** | Unity |
 
----
-
-<details>
-<summary>💡 About Me</summary>
-<p>
-I am a B.Eng. student and full-stack developer specializing in AI and DevOps. I have experience leading projects integrating AI agents with web applications, gamified learning platforms, and large-scale system architecture. Currently, I am an AI Developer at LaplaceAI and lead the K12EDU project, building educational platforms that make learning fun and effective.
 </p>
 </details>
 
 ---
 
-<details>
+<details open>
+<summary>💡 About Me</summary>
+<p>
+I am a B.Eng. student and full-stack developer specializing in AI and DevOps. I have experience leading projects integrating AI agents with web applications, gamified learning platforms, and large-scale system architecture. Currently, I am an AI Developer at LaplaceAI and lead the K12EDU project, building educational platforms that make learning fun and effective. In addition, I work as an R&D Intern at the ROC Computer Skills Foundation, supporting the development of an AI Teaching Assistant System.
+</p>
+</details>
+
+---
+
+<details open>
 <summary>🗺️ Roadmap & Experience</summary>
 
 **2022.09 – Present**  
@@ -56,7 +60,8 @@ I am a B.Eng. student and full-stack developer specializing in AI and DevOps. I 
 - K12EDU: Team Leader & Developer (AI, DevOps, Full-Stack)  
   - 1st Place – 2025 College of EECS Capstone Competition, NIU  
   - 2nd Place – Dept. CS & IE Capstone Competition, NIU  
-  - Excellence Award – Programming & AI Competition, NIU  
+  - Excellence Award – Programming & AI Competition, NIU
+  - Finalist - National College Innovation & Interdisciplinary Comp – Digital Computing & Innovation
 
 **2025.05 – Present**  
 - AI Developer at [LaplaceAI](https://laplaceai.co/)
@@ -64,24 +69,25 @@ I am a B.Eng. student and full-stack developer specializing in AI and DevOps. I 
 **2025.07 – Present**  
 - College Student Research Project: Intelligent Learning Assistant and Gamified Learning Platform (Project Number 114-2813-C-197-023-E)
 
+**2025.10 - Present**
+- R&D Intern at the [ROC Computer Skills Foundation](https://www.csf.org.tw/csfnew/), supporting the development of an AI Teaching Assistant System.
+
 </details>
 
 ---
 
-<details>
+<details open>
 <summary>💼 Projects</summary>
 
 ### [K12EDU](https://github.com/k12edu) – Leader & Developer
 - AI-integrated digital learning platform  
-- 🎮 [Game Platform](https://game.k12edu.uk) | 🤖 [AI Assistant](https://ai.k12edu.uk) | 📝 [Teacher Portal](https://teacher.k12edu.uk) | ⚖️ [Online Judge](https://judge.k12edu.uk)
-
-### [LaplaceAI-Lab](https://github.com/LaplaceAI-Lab) – AI Developer
+- 🎮 [Game Platform(Undergoing maintenance)](https://game.k12edu.uk) | 🤖 [AI Assistant(Undergoing maintenance)](https://ai.k12edu.uk) | 📝 [Teacher Portal](https://teacher.k12edu.uk) | ⚖️ [Online Judge](https://judge.k12edu.uk)
 
 </details>
 
 ---
 
-<details>
+<details open>
 <summary>🏆 Competitions</summary>
 
 | Year | Competition | Role | Award |
@@ -89,6 +95,7 @@ I am a B.Eng. student and full-stack developer specializing in AI and DevOps. I 
 | 2025 | College of EECS Capstone, NIU | Team Leader | 1st Place |
 | 2025 | Dept. CS & IE Capstone | Team Leader | 2nd Place |
 | 2025 | Programming & AI Applications Competition | Team Leader | Excellence Award |
+| 2025 | National College Innovation & Interdisciplinary Comp – Digital Computing & Innovation | Team Leader | Finalist |
 
 </details>
 
@@ -106,7 +113,7 @@ I am a B.Eng. student and full-stack developer specializing in AI and DevOps. I 
 
 ---
 
-<details>
+<details open>
 <summary>💡 Developer Quote</summary>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=4FC08D&center=true&vCenter=true&width=800&lines=Innovation+is+the+bridge+between+ideas+and+impact;Keep+building+and+learning." alt="Quote"/>
