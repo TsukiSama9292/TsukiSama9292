@@ -1,128 +1,120 @@
-# Xuan-You Lin (林宣佑)
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Xuan-You Lin (林宣佑)</h1>
 
-### 🎓 *B.Eng. Student & Developer (AI, DevOps, Full-Stack)* 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20Development-4FC08D?style=flat" />
+  <img src="https://img.shields.io/badge/Focus-DevOps-FF6F61?style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6A5ACD?style=flat" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/TsukiSama9292">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/xuan-you-lin-tsukisama9292">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/TsukiSama9292">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:tsukisama9292@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Technical Skills
-> ⚡ *Note: This section highlights only my core / most relevant skills.*
 
-| Category                    | Skills                                                            |
-| --------------------------- | ----------------------------------------------------------------- |
-| **Programming** | Python, JavaScript, TypeScript, dotnet |
+| Category | Skills |
+|----------|--------|
+| **Programming** | Python, JavaScript, TypeScript, C# |
 | **AI** | Context Engineering, LLM Post-Training |
-| **DevOps** | Docker, K8s, CI/CD(Github Actions) |
-| **OS** | Proxmox VE(PVE), Ubuntu, Rocky Linux, Alpine Linux |
-| **Servers** | Nginx, Cloudflare |
-| **Web** | FastAPI, Django, Nuxt.js(vue.js), Next.js(react) |
-| **Database** | PostgreSQL |
-| **Vector Database** | Qdrant, PGVector |
+| **DevOps** | Docker, Kubernetes, CI/CD (GitHub Actions) |
+| **Web** | FastAPI, Django, Nuxt.js, Next.js |
+| **OS / Servers** | Proxmox VE, Ubuntu, Rocky Linux, Nginx |
+| **Database** | PostgreSQL, Qdrant, PGVector |
+| **Game Engine** | Unity |
 
 ---
 
-<!-- GitHub Stats Side by Side -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=TsukiSama9292&show_icons=true&theme=gruvbox&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsukiSama9292&layout=compact&theme=gruvbox&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<details>
+<summary>💡 About Me</summary>
+<p>
+I am a B.Eng. student and full-stack developer specializing in AI and DevOps. I have experience leading projects integrating AI agents with web applications, gamified learning platforms, and large-scale system architecture. Currently, I am an AI Developer at LaplaceAI and lead the K12EDU project, building educational platforms that make learning fun and effective.
+</p>
+</details>
 
-<!-- GitHub Profile Trophy -->
+---
+
+<details>
+<summary>🗺️ Roadmap & Experience</summary>
+
+**2022.09 – Present**  
+- B.Eng. in Computer Science and Information Engineering, National Ilan University  
+
+**2023.11 – 2025.07**  
+- K12EDU: Team Leader & Developer (AI, DevOps, Full-Stack)  
+  - 1st Place – 2025 College of EECS Capstone Competition, NIU  
+  - 2nd Place – Dept. CS & IE Capstone Competition, NIU  
+  - Excellence Award – Programming & AI Competition, NIU  
+
+**2025.05 – Present**  
+- AI Developer at [LaplaceAI](https://laplaceai.co/)
+
+**2025.07 – Present**  
+- College Student Research Project: Intelligent Learning Assistant and Gamified Learning Platform (Project Number 114-2813-C-197-023-E)
+
+</details>
+
+---
+
+<details>
+<summary>💼 Projects</summary>
+
+### [K12EDU](https://github.com/k12edu) – Leader & Developer
+- AI-integrated digital learning platform  
+- 🎮 [Game Platform](https://game.k12edu.uk) | 🤖 [AI Assistant](https://ai.k12edu.uk) | 📝 [Teacher Portal](https://teacher.k12edu.uk) | ⚖️ [Online Judge](https://judge.k12edu.uk)
+
+### [LaplaceAI-Lab](https://github.com/LaplaceAI-Lab) – AI Developer
+
+</details>
+
+---
+
+<details>
+<summary>🏆 Competitions</summary>
+
+| Year | Competition | Role | Award |
+|------|------------|------|------|
+| 2025 | College of EECS Capstone, NIU | Team Leader | 1st Place |
+| 2025 | Dept. CS & IE Capstone | Team Leader | 2nd Place |
+| 2025 | Programming & AI Applications Competition | Team Leader | Excellence Award |
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TsukiSama9292&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsukiSama9292&layout=compact&theme=gruvbox&hide_border=true" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TsukiSama9292&theme=gruvbox&row=1&column=7" alt="trophy" />
 </p>
 
 ---
 
-## 💡 Interests  
-+ 🎯 Agentic AI
-+ 🌐 DevOps
-+ ☁️ Cloud
-
----
-
-## 🧑‍💻 About Me
 <details>
-  <summary>📖 Click To Open</summary>
-
-I am an innovative third-year Computer Science and Information Engineering student at National Ilan University, with a passion for integrating artificial intelligence into digital learning games and pursuing cutting-edge research. Since February 2025, I have been working as an AI Developer at LaplaceAI, where I focus on developing AI agents and exploring frontier research topics. In November 2023, I took the lead in founding K12EDU, whose mission is to make learning fun, challenging, and rewarding. Through K12EDU, I have overseen the development of a large-scale smart education platform alongside a talented team that includes a Unity game design engineer, a back-end game logic API engineer, and two full-stack engineers—including myself.  
-
-My responsibilities span AI development, DevOps, full-stack engineering, server system architecture design, CI/CD pipeline implementation, technical research, backend and server infrastructure management, cybersecurity, and overall operations—all of which I manage directly. Under my leadership, our 2025 capstone project earned first place. I bring strong expertise in AI agent development, prompt engineering, system design, server architecture, Unity integration with APIs and web servers, container orchestration, and full-stack web frameworks.  
-
-At K12EDU, we have greatly benefited from the invaluable suggestions and constructive feedback provided by supervising professors, lab seniors, and volunteer testers. Their insights have played a crucial role in refining our platform and shaping our design and development strategies, and I am deeply grateful for their support.
+<summary>💡 Developer Quote</summary>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=4FC08D&center=true&vCenter=true&width=800&lines=Innovation+is+the+bridge+between+ideas+and+impact;Keep+building+and+learning." alt="Quote"/>
+</p>
 </details>
 
 ---
 
-## 🗺️ Roadmap
-<details>
-  <summary>📖 Click To Open</summary>
-
-**2022.09 – Present**  
-+ 👨‍🎓 B.Eng. in Computer Science and Information Engineering  
-  + 🏫 National Ilan University (NIU), Taiwan  
-  + 📍 No. 1, Section 1, Shennong Rd, Yilan City, Yilan County 260, Taiwan  
-
-**2023.11 – 2025.07**  
-+ 🧑‍💻 K12EDU. Team Leader & Developer (AI, DevOps, Full-Stack)  
-  + 🥼 Computer Science RFID Lab (soon to be renamed Radar Lab), NIU  
-  + 🥇 1st Place – 2025 College of Electrical Engineering and Computer Science Capstone Research Achievement Competition, NIU
-  + 🥈 2nd Place - Department of Computer Science and Information Engineering Capstone Research Achievement Competition, NIU
-  + 🥈 Excellence Award - Programming, Information, and AI Applications Competition, NIU 
-  + 📊 Contribution: 50%
-
-**2025.05 – Present**  
-+ 🧠 AI Developer at [LaplaceAI](https://laplaceai.co/)
-
-**2025.07 - Present**
-+ 🇹🇼 College Student Research Project
-  + Intelligent Learning Assistant and Gamified Learning Platform: A Digital Education Solution Based on LLM and Unity
-  + Project Number 114-2813-C-197-023-E
-
-</details>
-
----
-
-## 💼 Project
-
-### [K12EDU](https://github.com/k12edu) – *Leader & Developer(AI, DevOps, Full-Stack)* 🚀  
-
-<details>
-  <summary>📖 Click To Open</summary>
-
-🎓 RFID Lab, Department of Computer Science and Information Engineering, National Ilan University | 2024 Capstone Project Team  
-
-We are a four-member team dedicated to developing an **AI-integrated digital learning platform** that makes K-12 education more engaging and effective through gamification.
-
-- 🔗 [About the Organization](https://www.k12edu.uk)  
-- 🎮 [Digital Learning Game Platform](https://game.k12edu.uk) – browser-based games  
-- 🤖 [AI Learning Assistant](https://ai.k12edu.uk/) – integrated with web search and RAG technology  
-- 📝 [Teacher Question Upload Platform with AI](https://teacher.k12edu.uk/) – design educational content with AI assistance  
-- ⚖️ [Online Judge](https://judge.k12edu.uk/) – provide programming questions and verify the correctness of the program  
-- 🐧 [Linux Lab](https://linux-lab.k12edu.uk/#/) – hands-on development document for IT learners
-
-Our mission: **Make learning fun, challenging, and rewarding!**
-
-</details>
-
-### [LaplaceAI-Lab](https://github.com/LaplaceAI-Lab) – *AI Developer* 🚀
-
----
-
-## 🏆 Competition Record
-
-<details>
-  <summary>📖 Click To Open</summary>
-
-| Year | Competition Name         | Role           | Award / Ranking |
-|------|--------------------------|----------------|-----------------|
-| 2025 | [College of Electrical Engineering and Computer Science Capstone Research Achievement Competition, NIU](https://raw.githubusercontent.com/TsukiSama9292/OpenData/refs/heads/main/images/Certificates_and_Diplomas/College_of_Electrical_Engineering_and_Computer_Science_Capstone_Project_Exhibition.png)   | Team Leader    | 1st Place       |
-| 2025 | Department of Computer Science and Information Engineering Capstone Research Achievement Competition, NIU | Team Leader | 2nd Place |
-| 2025 | Programming, Information, and AI Applications Competition, NIU | Team Leader | Excellence Award |
-
-</details>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=000000&animation=twinkling"/>
+</p>
