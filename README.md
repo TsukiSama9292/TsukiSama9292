@@ -9,13 +9,14 @@
 
 | Category                    | Skills                                                            |
 | --------------------------- | ----------------------------------------------------------------- |
-| **Programming** | Python, JavaScript, TypeScript |
+| **Programming** | Python, JavaScript, TypeScript, dotnet |
 | **AI** | Context Engineering, LLM Post-Training |
 | **DevOps** | Docker, K8s, CI/CD(Github Actions) |
 | **OS** | Proxmox VE(PVE), Ubuntu, Rocky Linux, Alpine Linux |
-| **Servers** | Nginx, CDN |
+| **Servers** | Nginx, Cloudflare |
 | **Web** | FastAPI, Django, Nuxt.js(vue.js), Next.js(react) |
 | **Database** | PostgreSQL |
+| **Vector Database** | Qdrant, PGVector |
 
 ---
 
