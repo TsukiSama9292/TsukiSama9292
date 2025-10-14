@@ -92,7 +92,7 @@ I am a B.Eng. student and full-stack developer specializing in AI and DevOps. I 
 
 | Year | Competition |
 |------|------------|
-| 2024 | The Mechanics of Deep Learning |
+| 2023 | The Mechanics of Deep Learning |
 | 2024 | Getting Started with AI on Jetson Nano |
 | 2024 | Building RAG Agents with LLMs |
 
