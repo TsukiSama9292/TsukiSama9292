@@ -88,20 +88,35 @@ I am a B.Eng. student and full-stack developer specializing in AI and DevOps. I 
 ---
 
 <details open>
+<summary>📜 Certification</summary>
+
+| Year | Competition |
+|------|------------|
+| 2024 | The Mechanics of Deep Learning |
+| 2024 | Getting Started with AI on Jetson Nano |
+| 2024 | Building RAG Agents with LLMs |
+
+</details>
+
+---
+
+<details open>
 <summary>🏆 Competitions</summary>
 
 | Year | Competition | Role | Award |
 |------|------------|------|------|
 | 2025 | College of EECS Capstone, NIU | Team Leader | 1st Place |
-| 2025 | Dept. CS & IE Capstone | Team Leader | 2nd Place |
-| 2025 | Programming & AI Applications Competition | Team Leader | Excellence Award |
+| 2025 | Dept. CS & IE Capstone, NIU | Team Leader | 2nd Place |
+| 2025 | Programming & AI Applications Competition, NIU | Team Leader | Excellence Award |
 | 2025 | National College Innovation & Interdisciplinary Comp – Digital Computing & Innovation | Team Leader | Finalist |
 
 </details>
 
 ---
 
-## 📊 GitHub Stats
+<details open>
+<summary>📊 GitHub Stats</summary>
+<p></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TsukiSama9292&show_icons=true&theme=gruvbox&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsukiSama9292&layout=compact&theme=gruvbox&hide_border=true" />
@@ -110,6 +125,8 @@ I am a B.Eng. student and full-stack developer specializing in AI and DevOps. I 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TsukiSama9292&theme=gruvbox&row=1&column=7" alt="trophy" />
 </p>
+
+</details>
 
 ---
 
