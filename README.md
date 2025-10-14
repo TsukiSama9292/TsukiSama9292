@@ -79,9 +79,9 @@ I am a B.Eng. student and full-stack developer specializing in AI and DevOps. I 
 <details open>
 <summary>💼 Projects</summary>
 
-### [K12EDU](https://github.com/k12edu) – Leader & Developer
+### [K12EDU(Undergoing maintenance)](https://github.com/k12edu) – Leader & Developer
 - AI-integrated digital learning platform  
-- 🎮 [Game Platform(Undergoing maintenance)](https://game.k12edu.uk) | 🤖 [AI Assistant(Undergoing maintenance)](https://ai.k12edu.uk) | 📝 [Teacher Portal](https://teacher.k12edu.uk) | ⚖️ [Online Judge](https://judge.k12edu.uk)
+- 🎮 [Game Platform](https://game.k12edu.uk) | 🤖 [AI Assistant](https://ai.k12edu.uk) | 📝 [Teacher Portal](https://teacher.k12edu.uk) | ⚖️ [Online Judge](https://judge.k12edu.uk)
 
 </details>
 
