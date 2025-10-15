@@ -44,7 +44,7 @@
 <details open>
 <summary>💡 About Me</summary>
 <p>
-I am a B.Eng. student and full-stack developer specializing in AI and DevOps. I have experience leading projects integrating AI agents with web applications, gamified learning platforms, and large-scale system architecture. Currently, I am an AI Developer at LaplaceAI and lead the K12EDU project, building educational platforms that make learning fun and effective. In addition, I work as an R&D Intern at the ROC Computer Skills Foundation, supporting the development of an AI Teaching Assistant System.
+I am a CSIE B.Eng. student and full-stack developer specializing in AI and DevOps. I have experience leading projects integrating AI agents with web applications, gamified learning platforms, and large-scale system architecture. Currently, I am an AI Developer at LaplaceAI and lead the K12EDU project, building educational platforms that make learning fun and effective. In addition, I work as an R&D Intern at the ROC Computer Skills Foundation, supporting the development of an AI Teaching Assistant System.
 </p>
 </details>
 
