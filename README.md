@@ -53,7 +53,7 @@ I am a CSIE B.Eng. student and full-stack developer specializing in AI and DevOp
 <details open>
 <summary>🗺️ Roadmap & Experience</summary>
 
-**2022.09 – Present**  
+**2022.09 – Present(Expected Graduation: 2026.06)**  
 - B.Eng. in Computer Science and Information Engineering, National Ilan University  
 
 **2023.11 – 2025.07**  
@@ -66,10 +66,10 @@ I am a CSIE B.Eng. student and full-stack developer specializing in AI and DevOp
 **2025.05 – Present**  
 - AI Developer at [LaplaceAI](https://laplaceai.co/)
 
-**2025.07 – Present**  
+**2025.07 – Present(Expected Completion: 2026.02)**  
 - College Student Research Project: Intelligent Learning Assistant and Gamified Learning Platform (Project Number 114-2813-C-197-023-E)
 
-**2025.10 - Present**
+**2025.10 - Present(Expected Completion: 2026.01)**
 - R&D Intern at the [ROC Computer Skills Foundation](https://www.csf.org.tw/csfnew/), supporting the development of an AI Teaching Assistant System.
 
 </details>
