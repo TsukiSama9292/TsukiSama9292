@@ -92,9 +92,9 @@ I am a CSIE B.Eng. student and full-stack developer specializing in AI and DevOp
 
 | Year | Competition |
 |------|------------|
-| 2023 | The Mechanics of Deep Learning |
-| 2024 | Getting Started with AI on Jetson Nano |
-| 2024 | Building RAG Agents with LLMs |
+| 2023 | Nvidia: The Mechanics of Deep Learning |
+| 2024 | Nvidia: Getting Started with AI on Jetson Nano |
+| 2024 | Nvidia: Building RAG Agents with LLMs |
 
 </details>
 
