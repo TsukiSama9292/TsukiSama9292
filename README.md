@@ -1,9 +1,21 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Xuan-You Lin (林宣佑)</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20Development-4FC08D?style=flat" />
-  <img src="https://img.shields.io/badge/Focus-DevOps-FF6F61?style=flat" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6A5ACD?style=flat" />
+  <img src="https://img.shields.io/badge/AI%20Development-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-FF6F61?style=for-the-badge&logo=dev.to&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack-6A5ACD?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- ML / AI -->
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
+
+  <!-- Web -->
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt-%23002E3B?style=for-the-badge&logo=nuxt&logoColor=%2300DC82" />
+
+  <!-- Turborepo -->
+  <img src="https://img.shields.io/badge/Turborepo-%23000000?style=for-the-badge&logo=turborepo&logoColor=white" />
 </p>
 
 <p align="center">
