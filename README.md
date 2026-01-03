@@ -34,10 +34,10 @@
 
 <div align="center" style="margin-bottom:0.2em; display:flex; justify-content:center; flex-wrap:wrap; gap:4px;">
   <!-- DevOps -->
-  <img src="https://img.shields.io/badge/Turborepo-000000?style=for-the-badge&logo=turborepo&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Turborepo-000000?style=for-the-badge&logo=turborepo&logoColor=white" height="30">
 </div>
 
 <div align="center" style="margin-bottom:0.2em; display:flex; justify-content:center; flex-wrap:wrap; gap:4px;">
