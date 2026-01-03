@@ -1,55 +1,79 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Xuan-You Lin (林宣佑)</h1>
+<h1 align="center">
+  Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="36">
+  I'm Xuan-You Lin (林宣佑)
+</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Development-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-FF6F61?style=for-the-badge&logo=dev.to&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full%20Stack-6A5ACD?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</p>
+<div align="center" style="margin-bottom:0.2em; display:flex; justify-content:center; flex-wrap:wrap; gap:4px;">
+  <img src="https://img.shields.io/badge/AI%20Development-000000?style=for-the-badge&logo=openai&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/DevOps-FF6F61?style=for-the-badge&logo=dev.to&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Full%20Stack-6A5ACD?style=for-the-badge&logo=stack-overflow&logoColor=white" height="30">
+</div>
 
-<p align="center">
-  <!-- ML / AI -->
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
+<div align="center" style="margin-bottom:0.2em; display:flex; justify-content:center; flex-wrap:wrap; gap:4px;">
+  <!-- Programming -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="30">
+</div>
 
+<div align="center" style="margin-bottom:0.2em; display:flex; justify-content:center; flex-wrap:wrap; gap:4px;">
+  <!-- AI -->
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Context%20Engineering-000000?style=for-the-badge" height="30">
+  <img src="https://img.shields.io/badge/LLM%20Post--Training-000000?style=for-the-badge" height="30">
+</div>
+
+<div align="center" style="margin-bottom:0.2em; display:flex; justify-content:center; flex-wrap:wrap; gap:4px;">
   <!-- Web -->
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuxt-%23002E3B?style=for-the-badge&logo=nuxt&logoColor=%2300DC82" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82" height="30">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="30">
+</div>
 
-  <!-- Turborepo -->
-  <img src="https://img.shields.io/badge/Turborepo-%23000000?style=for-the-badge&logo=turborepo&logoColor=white" />
-</p>
+<div align="center" style="margin-bottom:0.2em; display:flex; justify-content:center; flex-wrap:wrap; gap:4px;">
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/Turborepo-000000?style=for-the-badge&logo=turborepo&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="30">
+</div>
 
-<p align="center">
-  <a href="https://github.com/TsukiSama9292">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<div align="center" style="margin-bottom:0.2em; display:flex; justify-content:center; flex-wrap:wrap; gap:4px;">
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Qdrant-000000?style=for-the-badge" height="30">
+  <img src="https://img.shields.io/badge/PGVector-000000?style=for-the-badge" height="30">
+</div>
+
+<div align="center" style="margin-bottom:0.2em; display:flex; justify-content:center; flex-wrap:wrap; gap:4px;">
+  <!-- OS / Servers -->
+  <img src="https://img.shields.io/badge/Proxmox%20VE-2E2E2E?style=for-the-badge&logo=proxmox&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="30">
+</div>
+
+<div align="center" style="margin-bottom:0.2em; display:flex; justify-content:center; flex-wrap:wrap; gap:4px;">
+  <!-- Game Engine -->
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" height="30">
+</div>
+
+<div align="center" style="margin-top:0.6em; display:flex; justify-content:center; flex-wrap:wrap; gap:4px;">
+  <a href="https://github.com/TsukiSama9292" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30">
   </a>
-  <a href="https://www.linkedin.com/in/xuan-you-lin-tsukisama9292">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/xuan-you-lin-tsukisama9292" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
   </a>
-  <a href="https://www.facebook.com/TsukiSama9292">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://www.facebook.com/TsukiSama9292" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30">
   </a>
-  <a href="mailto:tsukisama9292@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:tsukisama9292@gmail.com" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30">
   </a>
-</p>
-
----
-<details open>
-<summary>🛠️ Technical Skills</summary>
-<p>
-
-| Category | Skills |
-|----------|--------|
-| **Programming** | Python, JavaScript, TypeScript, C# |
-| **AI** | Context Engineering, LLM Post-Training |
-| **DevOps** | Docker, Kubernetes, CI/CD (GitHub Actions) |
-| **Web** | FastAPI, Django, Nuxt.js, Next.js |
-| **OS / Servers** | Proxmox VE, Ubuntu, Rocky Linux, Nginx |
-| **Database** | PostgreSQL, Qdrant, PGVector |
-| **Game Engine** | Unity |
-
-</p>
-</details>
+</div>
 
 ---
 
