@@ -177,14 +177,71 @@
 
 ### 🎯 **What I Do**
 
-I specialize in **architecting intelligent software systems** that leverage cutting-edge AI technologies. My expertise spans:
+<table>
+<tr>
+<td align="center" width="50%">
 
-- 🤖 **AI Systems Development**: Building production-grade applications with LLMs, RAG architectures, and advanced context engineering
-- 🏗️ **Software Architecture**: Designing scalable, microservices-based systems with modern DevOps practices and cloud infrastructure
-- 💻 **Full-Stack Engineering**: Developing end-to-end solutions using Next.js, FastAPI, and containerized deployment strategies
-- 🚀 **Technical Leadership**: Leading engineering teams to architect and deploy award-winning, production-ready platforms
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
 
-Recent work includes **K12EDU**, a comprehensive platform showcasing AI integration, distributed systems, and scalable architecture — earning **4+ national awards** for technical innovation and system design.
+#### 🤖 **AI Systems Development**
+
+<img src="https://img.shields.io/badge/LLMs-Expert-FF6B6B?style=flat-square" height="18">
+<img src="https://img.shields.io/badge/RAG-Advanced-4FC08D?style=flat-square" height="18">
+<img src="https://img.shields.io/badge/Context%20Engineering-Pro-9B59B6?style=flat-square" height="18">
+
+Building production-grade intelligent applications with large language models, retrieval-augmented generation, and advanced context engineering techniques
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
+
+#### 🏗️ **Software Architecture**
+
+<img src="https://img.shields.io/badge/Microservices-Scalable-3498DB?style=flat-square" height="18">
+<img src="https://img.shields.io/badge/DevOps-Automated-FF6B6B?style=flat-square" height="18">
+<img src="https://img.shields.io/badge/Cloud-Native-4FC08D?style=flat-square" height="18">
+
+Designing scalable, distributed systems with microservices architecture, modern DevOps practices, and cloud-native infrastructure
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+
+#### 💻 **Full-Stack Engineering**
+
+<img src="https://img.shields.io/badge/Frontend-Next.js%20%7C%20Nuxt.js-000000?style=flat-square" height="18">
+<img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Django-009688?style=flat-square" height="18">
+
+Developing end-to-end solutions with modern frameworks, containerized deployment strategies, and seamless frontend-backend integration
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
+
+#### 🚀 **Technical Leadership**
+
+<img src="https://img.shields.io/badge/Team%20Lead-Cross--functional-FFD700?style=flat-square" height="18">
+<img src="https://img.shields.io/badge/Awards-4%2B%20National-FF6B6B?style=flat-square" height="18">
+
+Leading engineering teams to architect and deploy award-winning platforms, driving technical innovation and system design excellence
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯%20Featured%20Project-K12EDU%20Platform-4FC08D?style=for-the-badge" height="32">
+  <br><br>
+  <i>A comprehensive multi-service platform showcasing AI integration, distributed systems, and scalable architecture</i>
+  <br>
+  <img src="https://img.shields.io/badge/Technical%20Innovation-Award%20Winning-FFD700?style=flat-square" height="20">
+  <img src="https://img.shields.io/badge/System%20Design-Production%20Ready-4FC08D?style=flat-square" height="20">
+</p>
 
 <br>
 
@@ -241,7 +298,7 @@ Recent work includes **K12EDU**, a comprehensive platform showcasing AI integrat
 <td>
 
 #### 👨‍💻 **Research Project Leader**
-📅 2025.07 – 2026.02 (Expected)  
+📅 2025.07 – 2026.05 (Expected)  
 🎯 Intelligent Learning Assistant & Gamified Platform  
 💰 Funded by Ministry of Science (114-2813-C-197-023-E)
 
