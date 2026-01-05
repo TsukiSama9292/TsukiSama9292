@@ -220,7 +220,7 @@ Recent work includes **K12EDU**, a comprehensive platform showcasing AI integrat
 
 <table>
 <tr>
-<td>
+<td valign="middle">
 
 #### 🤖 **AI Developer** @ [LaplaceAI](https://laplaceai.co/)
 📅 2025.05 – Present  
@@ -229,7 +229,7 @@ Recent work includes **K12EDU**, a comprehensive platform showcasing AI integrat
 </td>
 </tr>
 <tr>
-<td>
+<td valign="middle">
 
 #### 🔬 **R&D Intern** @ ROC Computer Skills Foundation
 📅 2025.10 – 2026.01 (Expected)  
@@ -238,7 +238,7 @@ Recent work includes **K12EDU**, a comprehensive platform showcasing AI integrat
 </td>
 </tr>
 <tr>
-<td>
+<td valign="middle">
 
 #### 👨‍💻 **Research Project Leader**
 📅 2025.07 – 2026.02 (Expected)  
@@ -248,7 +248,7 @@ Recent work includes **K12EDU**, a comprehensive platform showcasing AI integrat
 </td>
 </tr>
 <tr>
-<td>
+<td valign="middle">
 
 #### 🎯 **Team Leader & Developer** @ K12EDU Platform
 📅 2023.11 – Present  
@@ -344,12 +344,52 @@ Automated code<br>evaluation &<br>testing system
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" height="20">
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes" height="20">
 
-**💡 Technical Highlights**
-- 🤖 LLM-powered intelligent assistant with RAG implementation
-- ⚙️ Microservices architecture with Kubernetes orchestration
-- 🚀 Real-time data processing and analytics pipeline
-- 🔒 Scalable authentication & role-based access control
-- 📊 Production deployment with Docker containerization & CI/CD
+<br><br>
+
+### 💡 Technical Highlights
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 AI & Intelligence
+**LLM-powered assistant with RAG**  
+Advanced context engineering and retrieval-augmented generation for intelligent responses
+
+<br>
+
+#### 🚀 Real-time Processing
+**Data pipeline & analytics**  
+High-performance real-time data processing with scalable analytics infrastructure
+
+<br>
+
+#### 📊 Production Deployment
+**Docker & CI/CD automation**  
+Containerized deployment with continuous integration and delivery pipelines
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚙️ Architecture
+**Microservices with K8s**  
+Distributed system design with Kubernetes orchestration for scalability
+
+<br>
+
+#### 🔒 Security & Access
+**Authentication & RBAC**  
+Enterprise-grade authentication system with role-based access control
+
+<br>
+
+#### 🌐 Cloud Infrastructure
+**Scalable & resilient**  
+Cloud-native architecture designed for high availability and performance
+
+</td>
+</tr>
+</table>
 
 </div>
 
