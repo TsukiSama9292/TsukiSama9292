@@ -350,7 +350,7 @@ Automated code<br>evaluation &<br>testing system
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="middle">
 
 #### 🤖 AI & Intelligence
 **LLM-powered assistant with RAG**  
@@ -369,7 +369,7 @@ High-performance real-time data processing with scalable analytics infrastructur
 Containerized deployment with continuous integration and delivery pipelines
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="middle">
 
 #### ⚙️ Architecture
 **Microservices with K8s**  
