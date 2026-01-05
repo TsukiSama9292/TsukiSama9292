@@ -155,7 +155,7 @@
 <tr>
 <td align="center" width="50%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="80">
 
 #### 🤖 **AI Systems Development**
 
@@ -168,7 +168,7 @@ Building production-grade intelligent applications with large language models, r
 </td>
 <td align="center" width="50%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="80">
 
 #### 🏗️ **Software Architecture**
 
@@ -183,7 +183,7 @@ Designing scalable, distributed systems with microservices architecture, modern 
 <tr>
 <td align="center" width="50%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+<img src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc1ODU0MjEsIm5iZiI6MTc2NzU4NTEyMSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTA1VDAzNTIwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFkMjdkYTQ2OGFlM2NhMGI3NWE4OGQ5MDc3MGEwMDU5ZjE1MGJkYjViM2Y5Yjc2NjJhM2JiMWMxYjM0MjA2NmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XaBGoSG4Ow4kW4yj1LICmahUhPQTleh1p2erMMZkMto" width="80">
 
 #### 💻 **Full-Stack Engineering**
 
@@ -195,7 +195,7 @@ Developing end-to-end solutions with modern frameworks, containerized deployment
 </td>
 <td align="center" width="50%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="80">
 
 #### 🚀 **Technical Leadership**
 
@@ -367,13 +367,13 @@ Automated code<br>evaluation &<br>testing system
 
 **🛠️ Tech Stack**
 
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" height="20">
-<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" height="20">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" height="20">
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/Nuxt-black?style=flat-square&logo=nuxt&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=python&logoColor=white" height="20">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="20">
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql" height="20">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" height="20">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes" height="20">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="20">
 
 <br><br>
 
