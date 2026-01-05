@@ -218,46 +218,29 @@ Recent work includes **K12EDU**, a comprehensive platform showcasing AI integrat
 
 ### 💼 Professional Experience
 
-<table>
-<tr>
-<td style="vertical-align: middle;">
-
 #### 🤖 **AI Developer** @ [LaplaceAI](https://laplaceai.co/)
 📅 2025.05 – Present  
 🎯 AI agent development & integration
 
-</td>
-</tr>
-<tr>
-<td style="vertical-align: middle;">
+---
 
 #### 🔬 **R&D Intern** @ ROC Computer Skills Foundation
 📅 2025.10 – 2026.01 (Expected)  
 🎯 AI Teaching Assistant System
 
-</td>
-</tr>
-<tr>
-<td style="vertical-align: middle;">
+---
 
 #### 👨‍💻 **Research Project Leader**
 📅 2025.07 – 2026.02 (Expected)  
 🎯 Intelligent Learning Assistant & Gamified Platform  
 💰 Funded by Ministry of Science (114-2813-C-197-023-E)
 
-</td>
-</tr>
-<tr>
-<td style="vertical-align: middle;">
+---
 
 #### 🎯 **Team Leader & Developer** @ K12EDU Platform
 📅 2023.11 – Present  
 👥 Cross-functional team  
 🏆 **4+ National Awards** | 🚀 Multiple platform deployments
-
-</td>
-</tr>
-</table>
 
 </td>
 </tr>
