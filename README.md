@@ -1,127 +1,365 @@
-<h1 align="center">
-  Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="36">
-  I'm Xuan-You Lin (林宣佑)
-</h1>
-
-<div align="center" style="margin-bottom:0.2em; display:flex; justify-content:center; flex-wrap:wrap; gap:4px;">
-  <img src="https://img.shields.io/badge/AI%20Development-000000?style=for-the-badge&logo=openai&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/DevOps-FF6F61?style=for-the-badge&logo=dev.to&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Full%20Stack-6A5ACD?style=for-the-badge&logo=stack-overflow&logoColor=white" height="30">
-</div>
-
-<div align="center" style="margin-bottom:0.2em; display:flex; justify-content:center; flex-wrap:wrap; gap:4px;">
-  <!-- Programming -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="30">
-</div>
-
-<div align="center" style="margin-bottom:0.2em; display:flex; justify-content:center; flex-wrap:wrap; gap:4px;">
-  <!-- AI -->
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Context%20Engineering-000000?style=for-the-badge" height="30">
-  <img src="https://img.shields.io/badge/LLM%20Post--Training-000000?style=for-the-badge" height="30">
-</div>
-
-<div align="center" style="margin-bottom:0.2em; display:flex; justify-content:center; flex-wrap:wrap; gap:4px;">
-  <!-- Web -->
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82" height="30">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="30">
-</div>
-
-<div align="center" style="margin-bottom:0.2em; display:flex; justify-content:center; flex-wrap:wrap; gap:4px;">
-  <!-- DevOps -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Turborepo-000000?style=for-the-badge&logo=turborepo&logoColor=white" height="30">
-</div>
-
-<div align="center" style="margin-bottom:0.2em; display:flex; justify-content:center; flex-wrap:wrap; gap:4px;">
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Qdrant-000000?style=for-the-badge" height="30">
-  <img src="https://img.shields.io/badge/PGVector-000000?style=for-the-badge" height="30">
-</div>
-
-<div align="center" style="margin-bottom:0.2em; display:flex; justify-content:center; flex-wrap:wrap; gap:4px;">
-  <!-- OS / Servers -->
-  <img src="https://img.shields.io/badge/Proxmox%20VE-2E2E2E?style=for-the-badge&logo=proxmox&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="30">
-</div>
-
-<div align="center" style="margin-bottom:0.2em; display:flex; justify-content:center; flex-wrap:wrap; gap:4px;">
-  <!-- Game Engine -->
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" height="30">
-</div>
-
-<div align="center" style="margin-top:0.6em; display:flex; justify-content:center; flex-wrap:wrap; gap:4px;">
-  <a href="https://github.com/TsukiSama9292" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30">
-  </a>
-  <a href="https://www.linkedin.com/in/xuan-you-lin-tsukisama9292" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
-  </a>
-  <a href="https://www.facebook.com/TsukiSama9292" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30">
-  </a>
-  <a href="mailto:tsukisama9292@gmail.com" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30">
-  </a>
-</div>
-
----
-
-<details open>
-<summary>💡 About Me</summary>
-<p>
-I am a CSIE B.Eng. student and full-stack developer specializing in AI and DevOps. I have experience leading projects integrating AI agents with web applications, gamified learning platforms, and large-scale system architecture. Currently, I am an AI Developer at LaplaceAI and lead the K12EDU project, building educational platforms that make learning fun and effective. In addition, I work as an R&D Intern at the ROC Computer Skills Foundation, supporting the development of an AI Teaching Assistant System.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Xuan-You%20Lin%20林宣佑&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20•%20Software%20Architect%20•%20Full-Stack%20Developer&descSize=16&descAlignY=51"/>
 </p>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4FC08D&center=true&vCenter=true&repeat=true&width=600&lines=Building+Intelligent+AI+Systems+%F0%9F%A4%96;Architecting+Scalable+Solutions+%F0%9F%9A%80;Full-Stack+%2B+AI+Integration+Expert+%F0%9F%92%BB;1st+Place+NIU+Capstone+Winner+%F0%9F%8F%86)](https://git.io/typing-svg)
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tsukisama9292&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/tsukisama9292)
+
+</td>
+<td align="center" width="50%">
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=tsukisama9292&theme=react&hide_border=true&stroke=0D1117&ring=4FC08D&fire=FF6B6B&currStreakLabel=4FC08D)](https://git.io/streak-stats)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=tsukisama9292&color=4FC08D&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/tsukisama9292?style=for-the-badge&color=4FC08D&labelColor=1e1e2e&logo=github)](https://github.com/tsukisama9292?tab=followers)
+
+
+<br>
+
+## 🎯 Core Expertise
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🤖 **AI Development**
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Context%20Engineering-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/LLM%20Training-4FC08D?style=for-the-badge&logo=tensorflow&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/RAG%20Systems-9B59B6?style=for-the-badge&logo=ai&logoColor=white" height="28">
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 **Full-Stack Dev**
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="28">
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ **DevOps & Cloud**
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" height="28">
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>🛠️ <b>View Full Tech Stack</b></summary>
+<br>
+
+<div align="center">
+
+**Programming Languages**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="28">
+
+**Databases & Storage**
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0MCIgZmlsbD0iI0RDMjQ0QyIvPjwvc3ZnPg==&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/PGVector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="28">
+
+**Infrastructure & OS**
+<br>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" height="28">
+
+**Game Development**
+<br>
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" height="28">
+
+</div>
 </details>
+
+<br>
+
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/TsukiSama9292">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35">
+  </a>
+  <a href="https://www.linkedin.com/in/xuan-you-lin-tsukisama9292">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
+  </a>
+  <a href="https://www.facebook.com/TsukiSama9292">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35">
+  </a>
+  <a href="mailto:tsukisama9292@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35">
+  </a>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+</p>
+
+<br>
+
+## 💫 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 👨‍💻 **Who I Am**
+
+**Xuan-You Lin (林宣佑)**  
+🎓 **AI Engineer & Software Architect**  
+📚 CSIE B.Eng @ National Ilan University (2022-2026)  
+📍 Taiwan 🇹🇼
 
 ---
 
-<details open>
-<summary>🗺️ Roadmap & Experience</summary>
+### 💼 **Current Roles**
 
-**2022.09 – Present(Expected Graduation: 2026.06)**  
-- B.Eng. in Computer Science and Information Engineering, National Ilan University  
-
-**2023.11 – 2025.07**  
-- K12EDU: Team Leader & Developer (AI, DevOps, Full-Stack)  
-  - 1st Place – 2025 College of EECS Capstone Competition, NIU  
-  - 2nd Place – Dept. CS & IE Capstone Competition, NIU  
-  - Excellence Award – Programming & AI Competition, NIU
-  - Finalist - National College Innovation & Interdisciplinary Comp – Digital Computing & Innovation
-
-**2025.05 – Present**  
-- AI Developer at [LaplaceAI](https://laplaceai.co/)
-
-**2025.07 – Present(Expected Completion: 2026.02)**  
-- College Student Research Project: Intelligent Learning Assistant and Gamified Learning Platform (Project Number 114-2813-C-197-023-E)
-
-**2025.10 - Present(Expected Completion: 2026.01)**
-- R&D Intern at the [ROC Computer Skills Foundation](https://www.csf.org.tw/csfnew/), supporting the development of an AI Teaching Assistant System.
-
-</details>
+🤖 **AI Developer** @ [LaplaceAI](https://laplaceai.co/)  
+🔬 **R&D Intern** @ ROC Computer Skills Foundation  
+🎓 **Research Project Leader** — AI Learning Assistant  
+🎯 **Team Leader** — K12EDU Platform
 
 ---
 
-<details open>
-<summary>💼 Projects</summary>
+### 🏆 **Recent Achievements**
 
-### [K12EDU(Undergoing maintenance)](https://github.com/k12edu) – Leader & Developer
-- AI-integrated digital learning platform  
-- 🎮 [Game Platform](https://game.k12edu.uk) | 🤖 [AI Assistant](https://ai.k12edu.uk) | 📝 [Teacher Portal](https://teacher.k12edu.uk) | ⚖️ [Online Judge](https://judge.k12edu.uk)
+- 🥇 **1st Place** — NIU EECS Capstone 2025
+- 🥈 **2nd Place** — NIU CS&IE Capstone 2025
+- ⭐ **Excellence Award** — Programming & AI Competition
+- 🎖️ **Finalist** — National Innovation Competition
 
-</details>
+<br>
+
+> *"Architecting intelligent systems that solve real-world problems! 🚀"*
+
+</td>
+<td width="40%" align="center" valign="top">
+
+<img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+<br>
+
+<img src="https://img.shields.io/badge/Focus-AI%20%2B%20Software%20Engineering-4FC08D?style=for-the-badge" height="28">
+<img src="https://img.shields.io/badge/Passion-System%20Architecture-FF6B6B?style=for-the-badge" height="28">
+
+</td>
+</tr>
+</table>
+
+### 🎯 **What I Do**
+
+I specialize in **architecting intelligent software systems** that leverage cutting-edge AI technologies. My expertise spans:
+
+- 🤖 **AI Systems Development**: Building production-grade applications with LLMs, RAG architectures, and advanced context engineering
+- 🏗️ **Software Architecture**: Designing scalable, microservices-based systems with modern DevOps practices and cloud infrastructure
+- 💻 **Full-Stack Engineering**: Developing end-to-end solutions using Next.js, FastAPI, and containerized deployment strategies
+- 🚀 **Technical Leadership**: Leading engineering teams to architect and deploy award-winning, production-ready platforms
+
+Recent work includes **K12EDU**, a comprehensive platform showcasing AI integration, distributed systems, and scalable architecture — earning **4+ national awards** for technical innovation and system design.
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+</p>
+
+<br>
+
+## 🎓 Education & Experience
+
+<table>
+<tr>
+<td width="30%" align="center" valign="top">
+
+### 🎓 Education
+
+**B.Eng. in Computer Science**
+<br>**& Information Engineering**
+
+*National Ilan University*
+
+📅 2022.09 – 2026.06
 
 ---
+
+<img src="https://img.shields.io/badge/GPA-Strong%20Academic%20Record-4FC08D?style=for-the-badge" height="24">
+
+</td>
+<td width="70%" valign="top">
+
+### 💼 Professional Experience
+
+<table>
+<tr>
+<td>
+
+#### 🤖 **AI Developer** @ [LaplaceAI](https://laplaceai.co/)
+📅 2025.05 – Present  
+🎯 AI agent development & integration
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### 🔬 **R&D Intern** @ ROC Computer Skills Foundation
+📅 2025.10 – 2026.01 (Expected)  
+🎯 AI Teaching Assistant System
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### 👨‍💻 **Research Project Leader**
+📅 2025.07 – 2026.02 (Expected)  
+🎯 Intelligent Learning Assistant & Gamified Platform  
+💰 Funded by Ministry of Science (114-2813-C-197-023-E)
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### 🎯 **Team Leader & Developer** @ K12EDU Platform
+📅 2023.11 – Present  
+👥 Cross-functional team  
+🏆 **4+ National Awards** | 🚀 Multiple platform deployments
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+</p>
+
+<br>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### [K12EDU Platform](https://github.com/k12edu) – *AI-Powered Multi-Service Platform*
+
+<img src="https://img.shields.io/badge/Status-Maintenance-FFA500?style=for-the-badge" height="28">
+<img src="https://img.shields.io/badge/Role-Team%20Leader%20%26%20Developer-4FC08D?style=for-the-badge" height="28">
+<img src="https://img.shields.io/badge/Awards-4%2B%20National%20Awards-FFD700?style=for-the-badge" height="28">
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+**🎮 Game Platform**
+<br>
+<a href="https://game.k12edu.uk">
+<img src="https://img.shields.io/badge/Visit-Game%20Platform-FF6B6B?style=for-the-badge&logo=game&logoColor=white" height="32">
+</a>
+<br><br>
+Gamified learning<br>with achievements<br>& leaderboards
+
+</td>
+<td align="center" width="25%">
+
+**🤖 AI Assistant**
+<br>
+<a href="https://ai.k12edu.uk">
+<img src="https://img.shields.io/badge/Visit-AI%20Assistant-4FC08D?style=for-the-badge&logo=openai&logoColor=white" height="32">
+</a>
+<br><br>
+Intelligent tutoring<br>powered by LLMs<br>& RAG systems
+
+</td>
+<td align="center" width="25%">
+
+**📝 Teacher Portal**
+<br>
+<a href="https://teacher.k12edu.uk">
+<img src="https://img.shields.io/badge/Visit-Teacher%20Portal-3498DB?style=for-the-badge&logo=teachable&logoColor=white" height="32">
+</a>
+<br><br>
+Comprehensive<br>course & student<br>management
+
+</td>
+<td align="center" width="25%">
+
+**⚖️ Online Judge**
+<br>
+<a href="https://judge.k12edu.uk">
+<img src="https://img.shields.io/badge/Visit-Online%20Judge-9B59B6?style=for-the-badge&logo=codejudge&logoColor=white" height="32">
+</a>
+<br><br>
+Automated code<br>evaluation &<br>testing system
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**🛠️ Tech Stack**
+
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" height="20">
+<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" height="20">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql" height="20">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" height="20">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes" height="20">
+
+**💡 Technical Highlights**
+- 🤖 LLM-powered intelligent assistant with RAG implementation
+- ⚙️ Microservices architecture with Kubernetes orchestration
+- 🚀 Real-time data processing and analytics pipeline
+- 🔒 Scalable authentication & role-based access control
+- 📊 Production deployment with Docker containerization & CI/CD
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+</p>
+
+<br>
 
 <details open>
 <summary>📜 Certification</summary>
@@ -145,22 +383,6 @@ I am a CSIE B.Eng. student and full-stack developer specializing in AI and DevOp
 | 2025 | Dept. CS & IE Capstone, NIU | Team Leader | 2nd Place |
 | 2025 | Programming & AI Applications Competition, NIU | Team Leader | Excellence Award |
 | 2025 | National College Innovation & Interdisciplinary Comp – Digital Computing & Innovation | Team Leader | Finalist |
-
-</details>
-
----
-
-<details open>
-<summary>📊 GitHub Stats</summary>
-<p></p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TsukiSama9292&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsukiSama9292&layout=compact&theme=gruvbox&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TsukiSama9292&theme=gruvbox&row=1&column=7" alt="trophy" />
-</p>
 
 </details>
 
