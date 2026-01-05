@@ -100,32 +100,6 @@
 
 <br>
 
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://github.com/TsukiSama9292">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35">
-  </a>
-  <a href="https://www.linkedin.com/in/xuan-you-lin-tsukisama9292">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
-  </a>
-  <a href="https://www.facebook.com/TsukiSama9292">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35">
-  </a>
-  <a href="mailto:tsukisama9292@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35">
-  </a>
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
-</p>
-
-<br>
-
 ## 💫 About Me
 
 <table>
@@ -458,42 +432,149 @@ Cloud-native architecture designed for high availability and performance
 
 <br>
 
-<details open>
-<summary>📜 Certification</summary>
+## 🏆 Achievements & Recognition
 
-| Year | Competition |
-|------|------------|
-| 2023 | Nvidia: The Mechanics of Deep Learning |
-| 2024 | Nvidia: Getting Started with AI on Jetson Nano |
-| 2024 | Nvidia: Building RAG Agents with LLMs |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</details>
+### 🎯 **Competition Awards (2025)**
 
----
+<table>
+<tr>
+<td align="center" width="60" style="font-size: 48px;">
+🥇
+</td>
+<td>
 
-<details open>
-<summary>🏆 Competitions</summary>
+**1st Place**  
+College of EECS Capstone Competition  
+*National Ilan University*
 
-| Year | Competition | Role | Award |
-|------|------------|------|------|
-| 2025 | College of EECS Capstone, NIU | Team Leader | 1st Place |
-| 2025 | Dept. CS & IE Capstone, NIU | Team Leader | 2nd Place |
-| 2025 | Programming & AI Applications Competition, NIU | Team Leader | Excellence Award |
-| 2025 | National College Innovation & Interdisciplinary Comp – Digital Computing & Innovation | Team Leader | Finalist |
+</td>
+</tr>
+<tr>
+<td align="center" style="font-size: 48px;">
+🥈
+</td>
+<td>
 
-</details>
+**2nd Place**  
+Dept. CS & IE Capstone Competition  
+*National Ilan University*
 
----
+</td>
+</tr>
+<tr>
+<td align="center" style="font-size: 48px;">
+🏆
+</td>
+<td>
 
-<details open>
-<summary>💡 Developer Quote</summary>
+**Excellence Award**  
+Programming & AI Applications Competition  
+*National Ilan University*
+
+</td>
+</tr>
+<tr>
+<td align="center" style="font-size: 48px;">
+🎖️
+</td>
+<td>
+
+**Finalist**  
+National College Innovation & Interdisciplinary Competition  
+*Digital Computing & Innovation Track*
+
+</td>
+</tr>
+</table>
+
+</td>
+<td width="50%" valign="top">
+
+### 📜 **Professional Certifications**
+
+<table>
+<tr>
+<td align="center" width="80">
+<img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="32">
+</td>
+<td valign="middle">
+
+**Deep Learning Mechanics**  
+*2023*
+
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="32">
+</td>
+<td valign="middle">
+
+**AI on Jetson Nano**  
+*2024*
+
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="32">
+</td>
+<td valign="middle">
+
+**Building RAG Agents with LLMs**  
+*2024*
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=4FC08D&center=true&vCenter=true&width=800&lines=Innovation+is+the+bridge+between+ideas+and+impact;Keep+building+and+learning." alt="Quote"/>
+<img src="https://img.shields.io/badge/Total%20Awards-4%2B%20National%20Recognition-FFD700?style=for-the-badge" height="28">
 </p>
-</details>
 
----
+</td>
+</tr>
+</table>
+
+<br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=000000&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+</p>
+
+<br>
+
+## 🌐 Let's Connect!
+
+<div align="center">
+
+<a href="https://github.com/TsukiSama9292">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40">
+</a>
+<a href="https://www.linkedin.com/in/xuan-you-lin-tsukisama9292">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
+</a>
+<a href="https://www.facebook.com/TsukiSama9292">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40">
+</a>
+<a href="mailto:tsukisama9292@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40">
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4FC08D&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </p>
