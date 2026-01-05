@@ -40,7 +40,7 @@
 ### 🤖 **AI Development**
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Context%20Engineering-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/LLM%20Training-4FC08D?style=for-the-badge&logo=tensorflow&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/LLM%20Training-4FC08D?style=for-the-badge&logo=huggingface&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/RAG%20Systems-9B59B6?style=for-the-badge&logo=ai&logoColor=white" height="28">
 
 </td>
@@ -48,7 +48,7 @@
 
 ### 🚀 **Full-Stack Dev**
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="28">
 
@@ -76,12 +76,13 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="28">
+
 
 **Databases & Storage**
 <br>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0MCIgZmlsbD0iI0RDMjQ0QyIvPjwvc3ZnPg==&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=databricks&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/PGVector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="28">
 
 **Infrastructure & OS**
