@@ -220,7 +220,7 @@ Recent work includes **K12EDU**, a comprehensive platform showcasing AI integrat
 
 <table>
 <tr>
-<td valign="middle">
+<td style="vertical-align: middle;">
 
 #### 🤖 **AI Developer** @ [LaplaceAI](https://laplaceai.co/)
 📅 2025.05 – Present  
@@ -229,7 +229,7 @@ Recent work includes **K12EDU**, a comprehensive platform showcasing AI integrat
 </td>
 </tr>
 <tr>
-<td valign="middle">
+<td style="vertical-align: middle;">
 
 #### 🔬 **R&D Intern** @ ROC Computer Skills Foundation
 📅 2025.10 – 2026.01 (Expected)  
@@ -238,7 +238,7 @@ Recent work includes **K12EDU**, a comprehensive platform showcasing AI integrat
 </td>
 </tr>
 <tr>
-<td valign="middle">
+<td style="vertical-align: middle;">
 
 #### 👨‍💻 **Research Project Leader**
 📅 2025.07 – 2026.02 (Expected)  
@@ -248,7 +248,7 @@ Recent work includes **K12EDU**, a comprehensive platform showcasing AI integrat
 </td>
 </tr>
 <tr>
-<td valign="middle">
+<td style="vertical-align: middle;">
 
 #### 🎯 **Team Leader & Developer** @ K12EDU Platform
 📅 2023.11 – Present  
@@ -350,7 +350,7 @@ Automated code<br>evaluation &<br>testing system
 
 <table>
 <tr>
-<td width="50%" valign="middle">
+<td width="50%" style="vertical-align: middle;">
 
 #### 🤖 AI & Intelligence
 **LLM-powered assistant with RAG**  
@@ -369,7 +369,7 @@ High-performance real-time data processing with scalable analytics infrastructur
 Containerized deployment with continuous integration and delivery pipelines
 
 </td>
-<td width="50%" valign="middle">
+<td width="50%" style="vertical-align: middle;">
 
 #### ⚙️ Architecture
 **Microservices with K8s**  
