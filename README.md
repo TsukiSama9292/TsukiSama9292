@@ -218,29 +218,46 @@ Recent work includes **K12EDU**, a comprehensive platform showcasing AI integrat
 
 ### 💼 Professional Experience
 
+<table>
+<tr>
+<td>
+
 #### 🤖 **AI Developer** @ [LaplaceAI](https://laplaceai.co/)
 📅 2025.05 – Present  
 🎯 AI agent development & integration
 
----
+</td>
+</tr>
+<tr>
+<td>
 
 #### 🔬 **R&D Intern** @ ROC Computer Skills Foundation
 📅 2025.10 – 2026.01 (Expected)  
 🎯 AI Teaching Assistant System
 
----
+</td>
+</tr>
+<tr>
+<td>
 
 #### 👨‍💻 **Research Project Leader**
 📅 2025.07 – 2026.02 (Expected)  
 🎯 Intelligent Learning Assistant & Gamified Platform  
 💰 Funded by Ministry of Science (114-2813-C-197-023-E)
 
----
+</td>
+</tr>
+<tr>
+<td>
 
 #### 🎯 **Team Leader & Developer** @ K12EDU Platform
 📅 2023.11 – Present  
 👥 Cross-functional team  
 🏆 **4+ National Awards** | 🚀 Multiple platform deployments
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -333,7 +350,7 @@ Automated code<br>evaluation &<br>testing system
 
 <table>
 <tr>
-<td width="50%" style="vertical-align: middle;">
+<td width="50%" valign="top">
 
 #### 🤖 AI & Intelligence
 **LLM-powered assistant with RAG**  
@@ -352,7 +369,7 @@ High-performance real-time data processing with scalable analytics infrastructur
 Containerized deployment with continuous integration and delivery pipelines
 
 </td>
-<td width="50%" style="vertical-align: middle;">
+<td width="50%" valign="top">
 
 #### ⚙️ Architecture
 **Microservices with K8s**  
