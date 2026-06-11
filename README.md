@@ -283,7 +283,7 @@ Leading engineering teams to architect and deploy award-winning platforms, drivi
 <td>
 
 #### 🎯 **Team Leader & Developer** @ K12EDU Platform
-📅 2023.11 – Present  
+📅 2023.11 – 2026.03  
 👥 Cross-functional team  
 🏆 **4+ National Awards** | 🚀 Multiple platform deployments
 
