@@ -321,9 +321,7 @@ Leading engineering teams to architect and deploy award-winning platforms, drivi
 
 **🎮 Game Platform**
 <br>
-<a href="https://game.k12edu.uk">
 <img src="https://img.shields.io/badge/Visit-Game%20Platform-FF6B6B?style=for-the-badge&logo=game&logoColor=white" height="32">
-</a>
 <br><br>
 Gamified learning<br>with achievements<br>& leaderboards
 
@@ -332,9 +330,7 @@ Gamified learning<br>with achievements<br>& leaderboards
 
 **🤖 AI Assistant**
 <br>
-<a href="https://ai.k12edu.uk">
 <img src="https://img.shields.io/badge/Visit-AI%20Assistant-4FC08D?style=for-the-badge&logo=openai&logoColor=white" height="32">
-</a>
 <br><br>
 Intelligent tutoring<br>powered by LLMs<br>& RAG systems
 
@@ -343,9 +339,7 @@ Intelligent tutoring<br>powered by LLMs<br>& RAG systems
 
 **📝 Teacher Portal**
 <br>
-<a href="https://teacher.k12edu.uk">
 <img src="https://img.shields.io/badge/Visit-Teacher%20Portal-3498DB?style=for-the-badge&logo=teachable&logoColor=white" height="32">
-</a>
 <br><br>
 Comprehensive<br>course & student<br>management
 
@@ -354,9 +348,7 @@ Comprehensive<br>course & student<br>management
 
 **⚖️ Online Judge**
 <br>
-<a href="https://judge.k12edu.uk">
 <img src="https://img.shields.io/badge/Visit-Online%20Judge-9B59B6?style=for-the-badge&logo=codejudge&logoColor=white" height="32">
-</a>
 <br><br>
 Automated code<br>evaluation &<br>testing system
 
