@@ -264,7 +264,7 @@ Leading engineering teams to architect and deploy award-winning platforms, drivi
 <td>
 
 #### 🔬 **R&D Intern** @ ROC Computer Skills Foundation
-📅 2025.10 – 2026.01 (Expected)  
+📅 2025.10 – 2026.01  
 🎯 AI Teaching Assistant System
 
 </td>
@@ -273,7 +273,7 @@ Leading engineering teams to architect and deploy award-winning platforms, drivi
 <td>
 
 #### 👨‍💻 **Research Project Leader**
-📅 2025.07 – 2026.05 (Expected)  
+📅 2025.07 – 2026.05  
 🎯 Intelligent Learning Assistant & Gamified Platform  
 💰 Funded by Ministry of Science (114-2813-C-197-023-E)
 
