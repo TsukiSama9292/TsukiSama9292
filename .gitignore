@@ -17,4 +17,4 @@ package-lock.json
 
 # Ignore bundler local paths
 .bundle/
-vendor/
+/vendor/
