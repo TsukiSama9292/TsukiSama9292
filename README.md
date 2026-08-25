@@ -38,16 +38,17 @@
 <td align="center" width="33%">
 
 ### 🤖 **AI Development**
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Context%20Engineering-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/LLM%20Training-4FC08D?style=for-the-badge&logo=huggingface&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/RAG%20Systems-9B59B6?style=for-the-badge&logo=ai&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Agentic%20AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/CLI%20vs%20MCP-4FC08D?style=for-the-badge&logo=terminal&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Context%20Engineering-9B59B6?style=for-the-badge&logo=ai&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/RAG%20Systems-336791?style=for-the-badge&logo=databricks&logoColor=white" height="28">
 
 </td>
 <td align="center" width="33%">
 
 ### 🚀 **Full-Stack Dev**
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="28">
@@ -58,12 +59,18 @@
 ### ⚙️ **DevOps & Cloud**
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/gVisor%20(runsc)-4285F4?style=for-the-badge&logo=google&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28">
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" height="28">
 
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <i>⚡ Philosophy: <b>Lightweight Design</b> — I choose <b>Rust</b> & <b>Svelte</b> for minimal, fast & efficient projects that do more with less</i>
+</p>
 
 <details>
 <summary>🛠️ <b>View Full Tech Stack</b></summary>
@@ -73,11 +80,18 @@
 
 **Programming Languages**
 <br>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="28">
 
+**Frontend**
+<br>
+<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" height="28">
 
 **Databases & Storage**
 <br>
@@ -87,8 +101,11 @@
 
 **Infrastructure & OS**
 <br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/gVisor-4285F4?style=for-the-badge&logo=google&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" height="28">
 
@@ -110,18 +127,29 @@
 ### 👨‍💻 **Who I Am**
 
 **Xuan-You Lin (林宣佑)**  
-🎓 **AI Engineer & Software Architect**  
-📚 CSIE B.Eng @ National Ilan University (2022-2026)  
-📍 Taiwan 🇹🇼
+🎓 **AI Engineer & Software Architect | M.S. in AI**  
+📚 M.S. in Artificial Intelligence @ National Ilan University (2026 – Present)  
+📚 B.Eng. in CSIE @ National Ilan University (2022-2026)  
+📍 Taiwan 🇹🇼  
+💡 **Core: Agentic AI (CLI vs MCP)** | 🔧 **Passion: Systems / Infra**  
+⚡ **Philosophy: Lightweight Design** — *Rust + Svelte for minimal, fast & efficient projects*
 
 ---
 
-### 💼 **Current Roles**
+### 💼 **Current**
 
-🤖 **AI Developer** @ [LaplaceAI](https://laplaceai.co/)  
-🔬 **R&D Intern** @ ROC Computer Skills Foundation  
-🎓 **Research Project Leader** — AI Learning Assistant  
-🎯 **Team Leader** — K12EDU Platform
+🔬 **Researcher** @ NIU VoIP Lab  
+🎯 Agentic AI — *CLI vs MCP* (ground-up research)
+
+---
+
+### 📜 **Previous Experience**
+
+🤖 AI Developer @ [LaplaceAI](https://laplaceai.co/)  
+🔬 R&D Intern @ ROC Computer Skills Foundation  
+🎓 Research Project Leader — AI Learning Assistant  
+🎯 Team Leader — K12EDU Platform  
+*→ details in Professional Experience below*
 
 ---
 
@@ -134,7 +162,7 @@
 
 <br>
 
-> *"Architecting intelligent systems that solve real-world problems! 🚀"*
+> *"Architecting intelligent, lightweight systems that solve real-world problems — Rust + Svelte, minimal by design ⚡"*
 
 </td>
 <td width="40%" align="center" valign="top">
@@ -143,8 +171,9 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Focus-AI%20%2B%20Software%20Engineering-4FC08D?style=for-the-badge" height="28">
-<img src="https://img.shields.io/badge/Passion-System%20Architecture-FF6B6B?style=for-the-badge" height="28">
+<img src="https://img.shields.io/badge/Focus-Agentic%20AI%20(CLI%20vs%20MCP)-4FC08D?style=for-the-badge" height="28">
+<img src="https://img.shields.io/badge/Passion-Systems%20%2F%20Infra-FF6B6B?style=for-the-badge" height="28">
+<img src="https://img.shields.io/badge/Philosophy-Lightweight%20Design%20(Rust%20%2B%20Svelte)-FF3E00?style=for-the-badge" height="28">
 
 </td>
 </tr>
@@ -158,26 +187,26 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="80">
 
-#### 🤖 **AI Systems Development**
+#### 🤖 **Agentic AI Systems**
 
-<img src="https://img.shields.io/badge/LLMs-Expert-FF6B6B?style=flat-square" height="18">
-<img src="https://img.shields.io/badge/RAG-Advanced-4FC08D?style=flat-square" height="18">
-<img src="https://img.shields.io/badge/Context%20Engineering-Pro-9B59B6?style=flat-square" height="18">
+<img src="https://img.shields.io/badge/Agentic%20AI-Focus-FF6B6B?style=flat-square" height="18">
+<img src="https://img.shields.io/badge/CLI%20vs%20MCP-Research-4FC08D?style=flat-square" height="18">
+<img src="https://img.shields.io/badge/RAG%20%2F%20Context-Advanced-9B59B6?style=flat-square" height="18">
 
-Building production-grade intelligent applications with large language models, retrieval-augmented generation, and advanced context engineering techniques
+Researching Agentic AI from the ground up — currently deep-diving into **CLI vs MCP** paradigms, building production-grade LLM applications with RAG and advanced context engineering
 
 </td>
 <td align="center" width="50%">
 
 <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="80">
 
-#### 🏗️ **Software Architecture**
+#### 🏗️ **Systems & Infra Architecture**
 
-<img src="https://img.shields.io/badge/Microservices-Scalable-3498DB?style=flat-square" height="18">
-<img src="https://img.shields.io/badge/DevOps-Automated-FF6B6B?style=flat-square" height="18">
-<img src="https://img.shields.io/badge/Cloud-Native-4FC08D?style=flat-square" height="18">
+<img src="https://img.shields.io/badge/Rust-Lightweight-000000?style=flat-square" height="18">
+<img src="https://img.shields.io/badge/Containers-gVisor%20%7C%20Docker-4285F4?style=flat-square" height="18">
+<img src="https://img.shields.io/badge/Linux-Deep%20Dive-FCC624?style=flat-square" height="18">
 
-Designing scalable, distributed systems with microservices architecture, modern DevOps practices, and cloud-native infrastructure
+Lightweight by design — crafting secure & efficient systems with **Rust** for minimal overhead, gVisor/runsc isolation, Linux internals (networking, graphics, namespaces/cgroups) — personal passion beyond core AI focus
 
 </td>
 </tr>
@@ -188,10 +217,10 @@ Designing scalable, distributed systems with microservices architecture, modern 
 
 #### 💻 **Full-Stack Engineering**
 
-<img src="https://img.shields.io/badge/Frontend-Next.js%20%7C%20Nuxt.js-000000?style=flat-square" height="18">
+<img src="https://img.shields.io/badge/Frontend-Svelte%20(Lightweight)-FF3E00?style=flat-square" height="18">
 <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Django-009688?style=flat-square" height="18">
 
-Developing end-to-end solutions with modern frameworks, containerized deployment strategies, and seamless frontend-backend integration
+Lightweight-first full-stack — **Svelte** for minimal, fast frontend with Next.js/Nuxt when needed, containerized deployment (Docker, Nix+uv) and seamless integration
 
 </td>
 <td align="center" width="50%">
@@ -234,6 +263,14 @@ Leading engineering teams to architect and deploy award-winning platforms, drivi
 
 ### 🎓 Education
 
+**M.S. in Artificial Intelligence**
+
+*National Ilan University*
+
+📅 2026.09 – Present
+
+---
+
 **B.Eng. in Computer Science**
 <br>**& Information Engineering**
 
@@ -254,8 +291,18 @@ Leading engineering teams to architect and deploy award-winning platforms, drivi
 <tr>
 <td>
 
+#### 🔬 **Researcher** @ NIU VoIP Lab
+📅 2026.09 – Present  
+🎯 **Agentic AI** — *CLI vs MCP* research from the ground up  
+💡 Core focus: Agentic AI | Personal passion: Systems / Infra
+
+</td>
+</tr>
+<tr>
+<td>
+
 #### 🤖 **AI Developer** @ [LaplaceAI](https://laplaceai.co/)
-📅 2025.05 – Present  
+📅 2025.05 – 2026.08  
 🎯 AI agent development & integration
 
 </td>
@@ -366,7 +413,6 @@ Automated code<br>evaluation &<br>testing system
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="20">
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="20">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="20">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="20">
 
 <br><br>
 
@@ -396,8 +442,8 @@ Containerized deployment with continuous integration and delivery pipelines
 <td width="50%" valign="top">
 
 #### ⚙️ Architecture
-**Microservices with K8s**  
-Distributed system design with Kubernetes orchestration for scalability
+**Microservices Architecture**  
+Distributed system design with decoupled services for scalability and maintainability
 
 <br>
 
@@ -410,6 +456,231 @@ Enterprise-grade authentication system with role-based access control
 #### 🌐 Cloud Infrastructure
 **Scalable & resilient**  
 Cloud-native architecture designed for high availability and performance
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### [OpenWorkspace-Engine](https://github.com/TsukiSama9292/OpenWorkspace-Engine) – *Secure Lightweight Rust Container Orchestration*
+
+<img src="https://img.shields.io/badge/Status-Active%20Development-4FC08D?style=for-the-badge" height="28">
+<img src="https://img.shields.io/badge/Role-Creator%20%26%20Maintainer-FF6B6B?style=for-the-badge" height="28">
+<img src="https://img.shields.io/badge/Stack-Rust%20%7C%20gVisor%20%7C%20Containers-000000?style=for-the-badge" height="28">
+
+<br><br>
+<i>Turn idle servers into a secure, stable & efficient multi-tenant cloud development platform</i>
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+**🦀 Rust Powered**
+<br>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="28">
+<br><br>
+Memory-safe<br>high-performance<br>orchestrator
+
+</td>
+<td align="center" width="25%">
+
+**🔒 Secure Isolation**
+<br>
+<img src="https://img.shields.io/badge/gVisor%20runsc-4285F4?style=for-the-badge&logo=google&logoColor=white" height="28">
+<br><br>
+gVisor + Docker<br>multi-tenant<br>hard isolation
+
+</td>
+<td align="center" width="25%">
+
+**⚡ Lightweight**
+<br>
+<img src="https://img.shields.io/badge/Efficient-4FC08D?style=for-the-badge&logo=linux&logoColor=white" height="28">
+<br><br>
+Minimal overhead<br>idle resource<br>reclamation
+
+</td>
+<td align="center" width="25%">
+
+**☁️ Cloud Platform**
+<br>
+<img src="https://img.shields.io/badge/Cloud%20Dev-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="28">
+<br><br>
+On-demand<br>dev workspaces<br>at scale
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**🛠️ Tech Stack**
+
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/gVisor-4285F4?style=flat-square&logo=google&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="20">
+
+<br><br>
+
+### 💡 Technical Highlights
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🦀 Systems Programming
+**Rust orchestration engine**  
+Secure, concurrent & memory-safe design for multi-tenant isolation without the weight of full K8s
+
+<br>
+
+#### 🔒 Security First
+**gVisor (runsc) integration**  
+Deep understanding of container runtimes — runc vs. gVisor for defense-in-depth sandboxing
+
+<br>
+
+#### 🌐 Network & OS Internals
+**Linux networking & namespaces**  
+Advanced networking, cgroups, namespaces and filesystem isolation tuning
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚡ Efficiency Driven
+**Idle → Cloud in seconds**  
+Reclaim idle servers, provision isolated workspaces on demand with minimal overhead
+
+<br>
+
+#### 🏗️ Infra Architecture
+**Lightweight K8s alternative**  
+Purpose-built for dev platform use-case — simpler, faster, lower resource than Kubernetes
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### [XFarm](https://github.com/TsukiSama9292/XFarm) — [weston-14-patch](https://github.com/TsukiSama9292/weston-14-patch) – *Docker-based Multi-Instance Linux Desktop & Game Farm*
+
+<img src="https://img.shields.io/badge/Status-Private%20Beta-9B59B6?style=for-the-badge" height="28">
+<img src="https://img.shields.io/badge/Type-Closed%20Source-FF6B6B?style=for-the-badge" height="28">
+<img src="https://img.shields.io/badge/Runtime-Docker%20%7C%20Weston%20%7C%20Wayland-2496ED?style=for-the-badge" height="28">
+
+<br><br>
+<i>Android-emulator-like experience, but for Linux desktops & Steam games — fully containerized with passthrough</i>
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+**🖥️ Multi-Desktop**
+<br>
+<img src="https://img.shields.io/badge/Linux%20Desktop-000000?style=for-the-badge&logo=linux&logoColor=white" height="28">
+<br><br>
+Multiple isolated<br>Linux desktops<br>per host
+
+</td>
+<td align="center" width="25%">
+
+**🎮 Steam Gaming**
+<br>
+<img src="https://img.shields.io/badge/Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white" height="28">
+<br><br>
+Run multiple<br>Steam games<br>concurrently
+
+</td>
+<td align="center" width="25%">
+
+**🎨 Custom Weston**
+<br>
+<img src="https://img.shields.io/badge/Weston%2014-FF6B6B?style=for-the-badge&logo=wayland&logoColor=white" height="28">
+<br><br>
+Patched compositor<br><a href="https://github.com/TsukiSama9292/weston-14-patch">weston-14-patch</a><br>for farm needs
+
+</td>
+<td align="center" width="25%">
+
+**🎯 GPU Selector**
+<br>
+<img src="https://img.shields.io/badge/GPU%20Select-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="28">
+<br><br>
+NVIDIA / AMD / Intel<br>dGPU<br>Intel / AMD iGPU<br>Software
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**🛠️ Tech Stack**
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/Weston-FF6B6B?style=flat-square&logo=wayland&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/Wayland-FFBC00?style=flat-square&logo=wayland&logoColor=black" height="20">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="20">
+<img src="https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/uv-3776AB?style=flat-square&logo=python&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/GPU%20Passthrough-76B900?style=flat-square&logo=nvidia&logoColor=white" height="20">
+
+<br><br>
+
+### 💡 Technical Highlights
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🖥️ Graphics Stack Deep Dive
+**Wayland / Weston rendering**  
+Patched `weston-14-patch` to support multi-instance desktop compositing — deep Linux graphics knowledge
+
+<br>
+
+#### 🎮 Resource-Optimized Gaming
+**Beyond emulator performance**  
+Unlike Android emulators, tuned to fully utilize host resources for concurrent game execution
+
+<br>
+
+#### 🔧 GPU Passthrough
+**Flexible GPU assignment**  
+Per-container selection: NVIDIA / AMD / Intel discrete, Intel/AMD iGPU, or software rendering
+
+</td>
+<td width="50%" valign="top">
+
+#### 🐳 Containerized Desktops
+**Docker as isolation primitive**  
+Full desktop environments containerized with device & GPU passthrough, not VM overhead
+
+<br>
+
+#### 📦 Reproducible Builds
+**Nix + uv dependency pinning**  
+Pin versions with known major bugs fixed — reproducible, hermetic environments
+
+<br>
+
+#### ⚙️ System-Level Engineering
+**Networking + Display + Input**  
+End-to-end plumbing of graphics, input, audio and network for N concurrent desktops
 
 </td>
 </tr>
