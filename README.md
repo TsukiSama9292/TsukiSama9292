@@ -63,7 +63,7 @@
 
 <div align="center">
 
-**Programming Languages**
+**Languages**
 <br>
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28">
@@ -78,21 +78,59 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" height="28">
 
+**Backend**
+<br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="28">
+
+**AI & LLM**
+<br>
+<img src="https://img.shields.io/badge/Agentic%20AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/CLI%20vs%20MCP-4FC08D?style=for-the-badge&logo=terminal&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Context%20Engineering-9B59B6?style=for-the-badge&logo=ai&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/RAG%20Systems-336791?style=for-the-badge&logo=databricks&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="28">
+
 **Databases & Storage**
 <br>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=databricks&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/PGVector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Redis%20%2F%20Valkey-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28">
 
-**Infrastructure & OS**
+**Containers & Orchestration**
+<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/gVisor%20(runsc)-4285F4?style=for-the-badge&logo=google&logoColor=white" height="28">
+
+**Operating Systems**
 <br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28">
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" height="28">
+<br>
+<i>Daily driver: Linux (Debian / Ubuntu / Proxmox VE / Rocky) · Occasional: Windows / FreeBSD</i>
+
+**Infrastructure & Firewall**
+<br>
 <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/gVisor-4285F4?style=for-the-badge&logo=google&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/IPFire-FF2E52?style=for-the-badge&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/OPNsense-E67E22?style=for-the-badge&logo=opnsense&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/DynFi-1C43B9?style=for-the-badge&logoColor=white" height="28">
+<br>
+<i>Firewall: IPFire on Linux · OPNsense / DynFi on FreeBSD</i>
+
+**CI/CD**
+<br>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/GitLab%20Pipeline-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" height="28">
 
 **Game Development**
 <br>
