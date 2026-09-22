@@ -24,7 +24,7 @@
 
 ### 🤖 **AI Development**
 <img src="https://img.shields.io/badge/Agentic%20AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/CLI%20vs%20MCP-4FC08D?style=for-the-badge&logo=terminal&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/MCP-4FC08D?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Context%20Engineering-9B59B6?style=for-the-badge&logo=ai&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/RAG%20Systems-336791?style=for-the-badge&logo=databricks&logoColor=white" height="28">
 
@@ -69,7 +69,10 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTQuMTg2NjY2IDU0LjE4NjY2NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcyA+PGxpbmVhckdyYWRpZW50IHgxPSI0Ni43NzMiIHgyPSI2OS45MDciIHkxPSI4Ni40NjIiIHkyPSIxMjYuNzMyIiBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKC0yMzMuOTgzIC01MTguOTc0KSBzY2FsZSg4Ljc4OTk2KSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIHN0b3AtY29sb3I9IiM5MjdCRTUiIC8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjNTEyQkQ0IiAvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxwYXRoIGQ9Ik0xMzUuNzMxIDI4NS44NXYxNzMuOTNjMCAyMS41MTcgMTEuNDc4IDQxLjQxOCAzMC4xMjUgNTIuMTY4bDE1MC42MjQgODYuOTc2YTYwLjIyMyA2MC4yMjMgMCAwIDAgNjAuMjUgMGwxNTAuNjIzLTg2Ljk3NmE2MC4yMzcgNjAuMjM3IDAgMCAwIDMwLjEyNC01Mi4xNjlWMjg1Ljg1MWMwLTIxLjUyNS0xMS40NzctNDEuNDIzLTMwLjEyNC01Mi4xNzdMMzc2LjcyOSAxNDYuNzJhNjAuMjEgNjAuMjEgMCAwIDAtNjAuMjQ5IDBsLTE1MC42MjQgODYuOTU0YTYwLjI0NSA2MC4yNDUgMCAwIDAtMzAuMTI1IDUyLjE3N3oiIGZpbGw9InVybCgjYSkiIHRyYW5zZm9ybT0ibWF0cml4KC4xIDAgMCAuMSAtNy41NjcgLTEwLjE4OSkiIC8+PHBhdGggZD0iTTU0LjA1NiA5OC4wM3Y2Ljg1NWExLjcxMSAxLjcxMSAwIDAgMCAxLjcxNCAxLjcxNCAxLjcxMyAxLjcxMyAwIDAgMCAxLjcxNC0xLjcxNCAxLjcxMyAxLjcxMyAwIDEgMSAzLjQyNyAwIDUuMTQgNS4xNCAwIDEgMS0xMC4yODIgMHYtNi44NTRhNS4xNCA1LjE0IDAgMSAxIDEwLjI4MiAwIDEuNzEyIDEuNzEyIDAgMSAxLTMuNDI3IDAgMS43MTIgMS43MTIgMCAxIDAtMy40MjcgMHptMjcuNDE4IDYuODU1YTEuNzEyIDEuNzEyIDAgMCAxLTEuNzE0IDEuNzE0aC0xLjcxNHYxLjcxM2MwIC40NTUtLjE4Ljg5MS0uNTAyIDEuMjEyYTEuNzEgMS43MSAwIDAgMS0yLjQyMyAwIDEuNzE5IDEuNzE5IDAgMCAxLS41MDItMS4yMTJ2LTEuNzEzaC0zLjQyN3YxLjcxM2ExLjcxIDEuNzEgMCAwIDEtMS43MTQgMS43MTQgMS43MSAxLjcxIDAgMCAxLTEuNzEzLTEuNzE0di0xLjcxM0g2Ni4wNWExLjcxMyAxLjcxMyAwIDEgMSAwLTMuNDI3aDEuNzE0di0zLjQyN0g2Ni4wNWExLjcxMiAxLjcxMiAwIDEgMSAwLTMuNDI3aDEuNzE0di0xLjcxNGExLjcxMyAxLjcxMyAwIDEgMSAzLjQyNyAwdjEuNzEzaDMuNDI3di0xLjcxM2ExLjcxMiAxLjcxMiAwIDEgMSAzLjQyNyAwdjEuNzEzaDEuNzE0Yy40NTQgMCAuODkuMTggMS4yMTEuNTAyYTEuNzEgMS43MSAwIDAgMSAwIDIuNDIzIDEuNzEyIDEuNzEyIDAgMCAxLTEuMjExLjUwM2gtMS43MTR2My40MjdoMS43MTRhMS43MTggMS43MTggMCAwIDEgMS43MTQgMS43MTN6bS02Ljg1NS01LjE0aC0zLjQyN3YzLjQyN2gzLjQyN3oiIGZpbGw9IiNmZmYiIHRyYW5zZm9ybT0ibWF0cml4KC44NzkgMCAwIC44NzkgLTMwLjk2NSAtNjIuMDg2KSIgLz48L3N2Zz4=" height="28">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28">
+<br>
+<i>Most used: Python · Rust · TypeScript / JavaScript</i>
 
 **Frontend**
 <br>
@@ -82,20 +85,24 @@
 <br>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=tokio&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Axum-000000?style=for-the-badge&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/ASP.NET%20Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28">
+<br>
+<i>Rust ecosystem: Tokio / Axum · C#: ASP.NET Web API</i>
 
 **AI & LLM**
 <br>
 <img src="https://img.shields.io/badge/Agentic%20AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/CLI%20vs%20MCP-4FC08D?style=for-the-badge&logo=terminal&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/MCP-4FC08D?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Context%20Engineering-9B59B6?style=for-the-badge&logo=ai&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/RAG%20Systems-336791?style=for-the-badge&logo=databricks&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="28">
 
 **Databases & Storage**
 <br>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/PostgreSQL%20%2F%20PGVector-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=databricks&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/PGVector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Redis%20%2F%20Valkey-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28">
 
 **Containers & Orchestration**
@@ -111,7 +118,7 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTMgM2g4LjV2OC41SDN6TTEyLjUgM0gyMXY4LjVoLTguNXpNMyAxMi41aDguNVYyMUgzek0xMi41IDEyLjVIMjFWMjFoLTguNXoiLz48L3N2Zz4=&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" height="28">
 <br>
 <i>Daily driver: Linux (Debian / Ubuntu / Proxmox VE / Rocky) · Occasional: Windows / FreeBSD</i>
@@ -121,9 +128,9 @@
 <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/IPFire-FF2E52?style=for-the-badge&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/IPFire-FF2E52?style=for-the-badge&logo=data:image/png;base64,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" height="28">
 <img src="https://img.shields.io/badge/OPNsense-E67E22?style=for-the-badge&logo=opnsense&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/DynFi-1C43B9?style=for-the-badge&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/DynFi-1C43B9?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAET0lEQVR4nMWXa4hWVRSGn28cHW95SRs1pEzTjLwkXelGDelEUpmBREhhJpVSWFD2IyqpHwZBYUg/SiXsIkUESWUmFCJNglGSdiG1zEatJu/XGWeefqw1zeek31ygXHD4vrPP2nutvc77vmufgsrptLLTGh0o7+S8bsAoYDBwHNgO/Ao0/B8JDAXuByYDIzPoBmA58AZwqEOrqR25hqur1Ab/bfvVl9VCR9Y82WAP9Ql1u7pTnaWWq33UpWrTSYIX2zy1TK1I/33qV2pVexOYpC5WJ6uvqF+qfdWJ6t42gqvWquPU6kz2KXVmJlHROt7JMHAEWAR8DfQFLgYKwO1535adCdwA/AQIrATWJ3a6Acfai4Gh6o/qHLWLurYdu2+2l3LOx+pqdYinwEazDvQDrgRuBMbm/adADfA60JjZt9fKgSZgKlABzAYGAFcAVVnVsmbHCmAWMA3YBgwiyj8SWAYczEVPLF1payLKfxTYRLySkcAwoA4YAjwCrCkDzgAuB94H7gPmAeOBLsDVQP9cdG87gzcCB/J/D6AauDTnTwNmpM+1EGU4SKjYgHT6ApgCrM4E7gK6Aptz0UPAFmB3UdA/co3jQD2wE+gDLAEGAvOBh9OnIn2+A/4B4Qh1bCuAnKWuUXeoD6p3GwK0UK1U56qHEnTV6mh1k1qnTlcX5bMlaj9P1JkqtWsxDbcQwJhP4GINsApYCLwKPA9sBA4DtbnjnUUV2Er0g4bc4UPAOAIDL6TPDOCi9FtOc99IekwzRKZePao2qs8mfVa2olid+rj6TdHYZ4Z4HW7l+6I6SP0g1z6iHjfoXWkq4Wi1Rt2t3qNepr6WiVyoPqYes+O2NzdwqyHrs9UJ6gL1gPqhWigHzgPGAO8SnCfLNCFR/Dmhjh3RAYB1+ZoKwNvA0lxnP3ALcB3QsxzoDvQipLPZdhHcPZTJdebY1Hw2+Aj4hMADhA4cIZhVUUYAaz9wDXHA6E1QqCehXM/lfUftppw7gtCa3vk7hlDaeuBYQR0FLAauIrj/G8GEwQSSB3cieLFtJRhUR+jOeELuVwB3YPT6qeqfJcD07UnGa9X5Bs9bo/+w+kMJgK43mh0FW07Fw4CZwAXEO99OAGkH8A5wNtEPthHtehmwJ+eeA8wF7iR6SVk+fxqYlLuuzLKvBd6iWdotfWQaqC43dKFOfVIdUMJ/VFFFGtVH21i/zQSq1b+ybM+oPXO8l8Hp5h5/idq7KOk3jdPQbnVYZxMoyx2r7lG7Fz17QF2RwVA3qzcXPZ+s7sokppdKoNSHSYGWVlxDC48LwPUEUwo5VgkMp+VD55dEPbRB4VIJNBEUaiKo2Cv9q4CJBBj3pe9G4Dbg3LzvT+iIwM+lEmgLA+MMCjao64zGtDOvCUV+U9Tf81W8p35vNJ0ao/2eMkYxDU9l44E5wPkEjTYQbbq2yKcLIWT3ZhXqCQovIGT3lNaeBP5TO+1fx38DKkjFI2dV5QQAAAAASUVORK5CYII=" height="28">
 <br>
 <i>Firewall: IPFire on Linux · OPNsense / DynFi on FreeBSD</i>
 
