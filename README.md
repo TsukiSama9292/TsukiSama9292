@@ -8,26 +8,11 @@
 
 <br>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tsukisama9292&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/tsukisama9292)
-
-</td>
-<td align="center" width="50%">
-
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=tsukisama9292&theme=react&hide_border=true&stroke=0D1117&ring=4FC08D&fire=FF6B6B&currStreakLabel=4FC08D)](https://git.io/streak-stats)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=tsukisama9292&color=4FC08D&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/tsukisama9292?style=for-the-badge&color=4FC08D&labelColor=1e1e2e&logo=github)](https://github.com/tsukisama9292?tab=followers)
-
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tsukisama9292&theme=react&hide_border=true&stroke=0D1117&ring=4FC08D&fire=FF6B6B&currStreakLabel=4FC08D" alt="GitHub Streak" />
+  </a>
+</p>
 
 <br>
 
@@ -257,6 +242,10 @@ Leading engineering teams to architect and deploy award-winning platforms, drivi
 
 ## 🎓 Education & Experience
 
+<details>
+<summary>📚 <b>View Education & Professional Experience</b></summary>
+<br>
+
 <table>
 <tr>
 <td width="30%" align="center" valign="top">
@@ -342,6 +331,8 @@ Leading engineering teams to architect and deploy award-winning platforms, drivi
 </tr>
 </table>
 
+</details>
+
 <br>
 
 <p align="center">
@@ -352,9 +343,11 @@ Leading engineering teams to architect and deploy award-winning platforms, drivi
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<details>
+<summary>🎓 <b><a href="https://github.com/k12edu">K12EDU Platform</a></b> – <i>AI-Powered Multi-Service Platform</i></summary>
+<br>
 
-### [K12EDU Platform](https://github.com/k12edu) – *AI-Powered Multi-Service Platform*
+<div align="center">
 
 <img src="https://img.shields.io/badge/Status-Maintenance-FFA500?style=for-the-badge" height="28">
 <img src="https://img.shields.io/badge/Role-Team%20Leader%20%26%20Developer-4FC08D?style=for-the-badge" height="28">
@@ -463,11 +456,15 @@ Cloud-native architecture designed for high availability and performance
 
 </div>
 
+</details>
+
+<br>
+
+<details>
+<summary>🦀 <b><a href="https://github.com/TsukiSama9292/OpenWorkspace-Engine">OpenWorkspace-Engine</a></b> – <i>Secure Lightweight Rust Container Orchestration</i></summary>
 <br>
 
 <div align="center">
-
-### [OpenWorkspace-Engine](https://github.com/TsukiSama9292/OpenWorkspace-Engine) – *Secure Lightweight Rust Container Orchestration*
 
 <img src="https://img.shields.io/badge/Status-Active%20Development-4FC08D?style=for-the-badge" height="28">
 <img src="https://img.shields.io/badge/Role-Creator%20%26%20Maintainer-FF6B6B?style=for-the-badge" height="28">
@@ -571,11 +568,15 @@ Purpose-built for dev platform use-case — simpler, faster, lower resource than
 
 </div>
 
+</details>
+
+<br>
+
+<details>
+<summary>🖥️ <b><a href="https://github.com/TsukiSama9292/XFarm">XFarm</a> — <a href="https://github.com/TsukiSama9292/weston-14-patch">weston-14-patch</a></b> – <i>Docker-based Multi-Instance Linux Desktop & Game Farm</i></summary>
 <br>
 
 <div align="center">
-
-### [XFarm](https://github.com/TsukiSama9292/XFarm) — [weston-14-patch](https://github.com/TsukiSama9292/weston-14-patch) – *Docker-based Multi-Instance Linux Desktop & Game Farm*
 
 <img src="https://img.shields.io/badge/Status-Private%20Beta-9B59B6?style=for-the-badge" height="28">
 <img src="https://img.shields.io/badge/Type-Closed%20Source-FF6B6B?style=for-the-badge" height="28">
@@ -687,6 +688,8 @@ End-to-end plumbing of graphics, input, audio and network for N concurrent deskt
 </table>
 
 </div>
+
+</details>
 
 <br>
 
