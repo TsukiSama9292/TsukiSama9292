@@ -33,8 +33,8 @@
 
 ### 🚀 **Full-Stack Dev**
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Svelte%20%26%20SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="28">
 
@@ -74,22 +74,30 @@
 <br>
 <i>Most used: Python · Rust · TypeScript / JavaScript</i>
 
+**Package Managers**
+<br>
+<img src="https://img.shields.io/badge/apt%20%2F%20dnf-A81D33?style=for-the-badge&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/uv-000000?style=for-the-badge&logo=uv&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/pnpm%20%2F%20npm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/cargo-000000?style=for-the-badge&logoColor=white" height="28">
+<br>
+<i>System: apt / dnf, Nix · Python: uv · JS: pnpm / npm · Rust: cargo</i>
+
 **Frontend**
 <br>
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Svelte%20%26%20SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" height="28">
 
 **Backend**
 <br>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=tokio&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Axum-000000?style=for-the-badge&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=tokio&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/ASP.NET%20Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28">
 <br>
-<i>Rust ecosystem: Tokio / Axum · C#: ASP.NET Web API</i>
+<i>Rust ecosystem: Axum (Tokio) · C#: ASP.NET Web API</i>
 
 **AI & LLM**
 <br>
@@ -101,7 +109,7 @@
 
 **Databases & Storage**
 <br>
-<img src="https://img.shields.io/badge/PostgreSQL%20%2F%20PGVector-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/PostgreSQL%20%26%20PGVector-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=databricks&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Redis%20%2F%20Valkey-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28">
 
@@ -125,7 +133,6 @@
 
 **Infrastructure & Firewall**
 <br>
-<img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/IPFire-FF2E52?style=for-the-badge&logo=data:image/png;base64,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" height="28">
