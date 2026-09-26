@@ -294,10 +294,6 @@ Leading engineering teams to architect and deploy award-winning platforms, drivi
 
 ## 🧭 Learning Philosophy
 
-<p align="center">
-  <i>I learn through <b>problems, exploration, and iteration</b> — good at entering unfamiliar territory, not knowing everything.</i>
-</p>
-
 <details>
 <summary>🧭 <b>View Learning Philosophy</b> — <i>Learning loop & how I learn</i></summary>
 <br>
