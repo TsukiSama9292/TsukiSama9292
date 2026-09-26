@@ -292,6 +292,129 @@ Leading engineering teams to architect and deploy award-winning platforms, drivi
 
 <br>
 
+## 🧭 Learning Philosophy
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Problems-FF6B6B?style=flat-square" height="20">
+<img src="https://img.shields.io/badge/Exploration-4FC08D?style=flat-square" height="20">
+<img src="https://img.shields.io/badge/Iteration-9B59B6?style=flat-square" height="20">
+
+<br><br>
+
+<i><b>I don't try to know everything. I try to become good at entering unfamiliar territory.</b></i>
+<br>
+I learn primarily through <b>problems, exploration, and iteration</b> rather than following a predefined curriculum.
+
+</div>
+
+<br>
+
+### 🔁 Learning Loop
+
+```mermaid
+flowchart TD
+    A[🎯 Encounter a problem] --> B[🔭 Discover unfamiliar technologies]
+    B --> C[🧩 Build just enough understanding]
+    C --> D[🧪 Try it in a sandbox]
+    D --> E[💥 Break things]
+    E --> F[📚 Read docs · Search · Ask AI]
+    F --> G[💡 Understand why it works]
+    G --> H[🚀 Apply it to the real problem]
+    H --> I[🔁 Repeat]
+    I -.-> A
+
+    style A fill:#4FC08D,stroke:#0D1117,color:#fff
+    style I fill:#FF6B6B,stroke:#0D1117,color:#fff
+```
+
+### 🌱 How I Learn
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+#### 🔭 Discover Broadly
+
+<img src="https://img.shields.io/badge/Technical%20Radar-4FC08D?style=flat-square" height="18">
+
+Use videos, articles, and projects as a technical radar
+
+</td>
+<td align="center" width="25%">
+
+#### 🎯 Learn When Needed
+
+<img src="https://img.shields.io/badge/Just%20In%20Time-FF6B6B?style=flat-square" height="18">
+
+No pre-memorizing everything before using it
+
+</td>
+<td align="center" width="25%">
+
+#### 🛠️ Build First
+
+<img src="https://img.shields.io/badge/Hands%20On-FF3E00?style=flat-square" height="18">
+
+Hands-on experimentation exposes what I actually need
+
+</td>
+<td align="center" width="25%">
+
+#### 📚 Go to the Source
+
+<img src="https://img.shields.io/badge/Docs%20%2B%20Mechanism-3498DB?style=flat-square" height="18">
+
+When it breaks, read docs and investigate the mechanism
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+#### 🤖 AI as Accelerator
+
+<img src="https://img.shields.io/badge/Validate%20Myself-9B59B6?style=flat-square" height="18">
+
+AI navigates docs, compares approaches, explores domains — I validate the result
+
+</td>
+<td align="center" width="33%">
+
+#### ⏩ Skip Known
+
+<img src="https://img.shields.io/badge/Focus%20Unknowns-FFD700?style=flat-square" height="18">
+
+Skim or skip familiar material, spend time on unknowns
+
+</td>
+<td align="center" width="33%">
+
+#### 🧪 Sandbox First
+
+<img src="https://img.shields.io/badge/Then%20Production-009688?style=flat-square" height="18">
+
+Experiment freely isolated, then move validated solutions to real systems
+
+</td>
+</tr>
+</table>
+
+<br>
+
+> *"The goal isn't to know everything. The goal is to be able to learn whatever becomes necessary. ⚡"*
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+</p>
+
+<br>
+
 ## 🎓 Education & Experience
 
 <details>
