@@ -294,13 +294,15 @@ Leading engineering teams to architect and deploy award-winning platforms, drivi
 
 ## 🧭 Learning Philosophy
 
+<p align="center">
+  <i>I learn through <b>problems, exploration, and iteration</b> — good at entering unfamiliar territory, not knowing everything.</i>
+</p>
+
+<details>
+<summary>🧭 <b>View Learning Philosophy</b> — <i>Learning loop & how I learn</i></summary>
+<br>
+
 <div align="center">
-
-<img src="https://img.shields.io/badge/Problems-FF6B6B?style=flat-square" height="20">
-<img src="https://img.shields.io/badge/Exploration-4FC08D?style=flat-square" height="20">
-<img src="https://img.shields.io/badge/Iteration-9B59B6?style=flat-square" height="20">
-
-<br><br>
 
 <i><b>I don't try to know everything. I try to become good at entering unfamiliar territory.</b></i>
 <br>
@@ -406,6 +408,8 @@ Experiment freely isolated, then move validated solutions to real systems
 <br>
 
 > *"The goal isn't to know everything. The goal is to be able to learn whatever becomes necessary. ⚡"*
+
+</details>
 
 <br>
 
