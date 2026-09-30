@@ -45,7 +45,7 @@
 <br>
 <i>Also: PGVector (Postgres extension)</i>
 
-### DevOps, Infra & OS
+### DevOps, Infra
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,nix&perline=10&theme=dark" />
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab&perline=4&theme=dark" />
 <img src="https://cdn.simpleicons.org/turborepo" height="48" />
